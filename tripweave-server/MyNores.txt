@@ -1,0 +1,95 @@
+db.bookings.countDocuments()
+# Should return 1
+
+db.bookings.findOne().pretty()
+# Now this will work — check that user.email matches your Gmail
+
+
+mongosh
+use tripweave
+db.bookings.deleteMany({ bookingId: 'TW-TEST-001' })
+db.bookings.countDocuments()
+# Should be 0
+
+# Show all databases
+show dbs
+
+# Use tripweave database
+use tripweave
+
+# Show all collections (your "tables")
+show collections
+
+# Count documents in each
+db.destinations.countDocuments()
+db.trips.countDocuments()
+db.flights.countDocuments()
+db.hotels.countDocuments()
+db.itineraries.countDocuments()
+db.bookings.countDocuments()
+db.users.countDocuments()
+db.analytics.countDocuments()
+
+# View sample document
+db.destinations.findOne()
+db.bookings.findOne()
+db.users.findOne()
+
+# View all bookings
+db.bookings.find().pretty()
+
+# View all users (just name + email)
+db.users.find({}, { name:1, email:1, gender:1, country:1 })
+
+# View analytics events
+db.analytics.find().sort({ timestamp: -1 }).limit(10).pretty()
+
+# Exit
+exit
+
+GET  http://localhost:5000/api/destinations
+GET  http://localhost:5000/api/trips
+GET  http://localhost:5000/api/flights/BARCELONA
+GET  http://localhost:5000/api/hotels/GOA
+GET  http://localhost:5000/api/bookings
+GET  http://localhost:5000/api/analytics/stats
+GET  http://localhost:5000/api/users
+
+POST http://localhost:5000/api/users/login
+Body (JSON): { "email": "guest@tripweave.com" }
+
+POST http://localhost:5000/api/bookings
+Body (JSON): { "bookingId": "TEST-001", "status": "Pending" }
+
+
+POST http://localhost:5000/api/ai/generate-itinerary
+
+
+{
+  "travelType": "romantic",
+  "adults": 2,
+  "children": 0,
+  "duration": "7 Days / 6 Nights",
+  "departure": "Mumbai (BOM)",
+  "destination": "Goa",
+  "interests": ["Beaches", "Nightlife", "Food"],
+  "budget": {
+    "label": "₹40,000 – ₹80,000",
+    "min": 40000,
+    "max": 80000
+  },
+  "accommodation": "Mid-range",
+  "transport": "Private cabs",
+  "tripVibe": "Balanced",
+  "activityLevel": "Moderate",
+  "mustVisit": "Dudhsagar Falls, Fort Aguada",
+  "exclusions": "No water sports",
+  "visaConstraints": "No",
+  "specialRequirements": "Vegetarian meals only",
+  "userPersona": {
+    "name": "Aayush Sharma",
+    "gender": "Male",
+    "ageGroup": "25-34",
+    "country": "India"
+  }
+}

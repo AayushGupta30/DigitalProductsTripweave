@@ -1,0 +1,2740 @@
+{
+  "_note": "flightRouteCode maps to route groups. SHORT/VERYSHORT routes apply early-departure late-arrival logic for trips <= 3 days. All prices in INR unless otherwise noted.",
+
+  "GOA_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Goa (GOI)",
+    "outbound": [
+      {
+        "id": "flt_goa_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-831",
+        "departure": "06:00",
+        "arrival": "07:20",
+        "duration": "1h 20m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early morning — maximise your day in Goa",
+        "smartPick": true
+      },
+      {
+        "id": "flt_goa_o2",
+        "airline": "Air India",
+        "flightNo": "AI-633",
+        "departure": "08:30",
+        "arrival": "09:55",
+        "duration": "1h 25m",
+        "stops": 0,
+        "price": 4900,
+        "class": "Economy",
+        "tag": "Flexible",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_goa_o3",
+        "airline": "Vistara",
+        "flightNo": "UK-881",
+        "departure": "12:10",
+        "arrival": "13:30",
+        "duration": "1h 20m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy Plus",
+        "tag": "Comfortable",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_goa_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-836",
+        "departure": "20:45",
+        "arrival": "22:05",
+        "duration": "1h 20m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Late evening — squeeze every last minute out of Goa",
+        "smartPick": true
+      },
+      {
+        "id": "flt_goa_r2",
+        "airline": "Air India",
+        "flightNo": "AI-638",
+        "departure": "16:30",
+        "arrival": "17:55",
+        "duration": "1h 25m",
+        "stops": 0,
+        "price": 4600,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_goa_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-171",
+        "departure": "19:00",
+        "arrival": "20:20",
+        "duration": "1h 20m",
+        "stops": 0,
+        "price": 3900,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+  "KASHMIR": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Srinagar (SXR)",
+    "note": "Best booked 3-4 weeks in advance for peak season",
+    "outbound": [
+      {
+        "id": "flt_kash_out_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-441",
+        "departure": "06:15",
+        "arrival": "09:30",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 5800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": "Earliest flight — full day in Kashmir",
+        "smartPick": false
+      },
+      {
+        "id": "flt_kash_out_002",
+        "airline": "Air India",
+        "flightNo": "AI-821",
+        "departure": "08:45",
+        "arrival": "12:00",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 7200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Best balance of timing and price",
+        "smartPick": true
+      },
+      {
+        "id": "flt_kash_out_003",
+        "airline": "Vistara",
+        "flightNo": "UK-631",
+        "departure": "11:30",
+        "arrival": "14:45",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 11500,
+        "class": "Business",
+        "tag": "Premium",
+        "note": "Full flat bed, lounge access included",
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_kash_ret_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-442",
+        "departure": "15:00",
+        "arrival": "18:15",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_kash_ret_002",
+        "airline": "Air India",
+        "flightNo": "AI-822",
+        "departure": "17:30",
+        "arrival": "20:45",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 6900,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Evening return — maximise your last day",
+        "smartPick": true
+      },
+      {
+        "id": "flt_kash_ret_003",
+        "airline": "Vistara",
+        "flightNo": "UK-632",
+        "departure": "19:45",
+        "arrival": "23:00",
+        "duration": "3h 15m",
+        "stops": 0,
+        "price": 12000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "VARANASI": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Varanasi (VNS)",
+    "note": "Book early during festival season (Oct–Feb)",
+    "outbound": [
+      {
+        "id": "flt_vns_out_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-291",
+        "departure": "05:45",
+        "arrival": "07:45",
+        "duration": "2h 00m",
+        "stops": 0,
+        "price": 3800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": "Earliest arrival — catch morning Ganga Aarti",
+        "smartPick": true
+      },
+      {
+        "id": "flt_vns_out_002",
+        "airline": "Air India",
+        "flightNo": "AI-411",
+        "departure": "09:15",
+        "arrival": "11:20",
+        "duration": "2h 05m",
+        "stops": 0,
+        "price": 5400,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_vns_out_003",
+        "airline": "Vistara",
+        "flightNo": "UK-761",
+        "departure": "14:00",
+        "arrival": "16:05",
+        "duration": "2h 05m",
+        "stops": 0,
+        "price": 9200,
+        "class": "Business",
+        "tag": "Premium",
+        "note": "Complimentary meals and priority boarding",
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_vns_ret_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-292",
+        "departure": "18:30",
+        "arrival": "20:30",
+        "duration": "2h 00m",
+        "stops": 0,
+        "price": 3600,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_vns_ret_002",
+        "airline": "Air India",
+        "flightNo": "AI-412",
+        "departure": "20:00",
+        "arrival": "22:05",
+        "duration": "2h 05m",
+        "stops": 0,
+        "price": 5100,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_vns_ret_003",
+        "airline": "Vistara",
+        "flightNo": "UK-762",
+        "departure": "21:30",
+        "arrival": "23:35",
+        "duration": "2h 05m",
+        "stops": 0,
+        "price": 9800,
+        "class": "Business",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "RAJASTHAN": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Jaipur (JAI)",
+    "note": "Jaipur is gateway to the Rajasthan circuit",
+    "outbound": [
+      {
+        "id": "flt_raj_out_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-181",
+        "departure": "06:00",
+        "arrival": "07:30",
+        "duration": "1h 30m",
+        "stops": 0,
+        "price": 3200,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": "Full day in Jaipur on arrival",
+        "smartPick": false
+      },
+      {
+        "id": "flt_raj_out_002",
+        "airline": "Air India",
+        "flightNo": "AI-611",
+        "departure": "08:30",
+        "arrival": "10:05",
+        "duration": "1h 35m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Best timing for fort visits in the morning",
+        "smartPick": true
+      },
+      {
+        "id": "flt_raj_out_003",
+        "airline": "Vistara",
+        "flightNo": "UK-881",
+        "departure": "11:15",
+        "arrival": "12:50",
+        "duration": "1h 35m",
+        "stops": 0,
+        "price": 8500,
+        "class": "Business",
+        "tag": "Premium",
+        "note": "Lounge access, priority check-in",
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_raj_ret_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-182",
+        "departure": "16:45",
+        "arrival": "18:15",
+        "duration": "1h 30m",
+        "stops": 0,
+        "price": 3000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_raj_ret_002",
+        "airline": "Air India",
+        "flightNo": "AI-612",
+        "departure": "19:00",
+        "arrival": "20:35",
+        "duration": "1h 35m",
+        "stops": 0,
+        "price": 4500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Evening return — see sunset at Nahargarh Fort",
+        "smartPick": true
+      },
+      {
+        "id": "flt_raj_ret_003",
+        "airline": "Vistara",
+        "flightNo": "UK-882",
+        "departure": "21:00",
+        "arrival": "22:35",
+        "duration": "1h 35m",
+        "stops": 0,
+        "price": 9000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "MALDIVES": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Malé (MLE)",
+    "note": "Connect via Sri Lanka or direct — book 6 weeks ahead",
+    "outbound": [
+      {
+        "id": "flt_mal_out_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-1441",
+        "departure": "07:30",
+        "arrival": "09:45",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 12000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": "Direct flight — best value for Maldives",
+        "smartPick": false
+      },
+      {
+        "id": "flt_mal_out_002",
+        "airline": "Air India",
+        "flightNo": "AI-271",
+        "departure": "10:00",
+        "arrival": "12:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 16500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Arrive in time for afternoon speedboat transfer",
+        "smartPick": true
+      },
+      {
+        "id": "flt_mal_out_003",
+        "airline": "Emirates",
+        "flightNo": "EK-501",
+        "departure": "03:30",
+        "arrival": "10:00",
+        "duration": "8h 30m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 28000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": "Business class with Dubai lounge — arrive refreshed",
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_mal_ret_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-1442",
+        "departure": "14:00",
+        "arrival": "16:15",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 11500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_mal_ret_002",
+        "airline": "Air India",
+        "flightNo": "AI-272",
+        "departure": "16:30",
+        "arrival": "18:50",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 15800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Last full morning at resort before checkout",
+        "smartPick": true
+      },
+      {
+        "id": "flt_mal_ret_003",
+        "airline": "Emirates",
+        "flightNo": "EK-502",
+        "departure": "20:00",
+        "arrival": "05:30+1",
+        "duration": "9h 30m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 26000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "THAILAND": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Bangkok (BKK)",
+    "note": "BKK is hub — connect to Phuket or Krabi onward",
+    "outbound": [
+      {
+        "id": "flt_thai_out_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-1781",
+        "departure": "01:30",
+        "arrival": "07:45",
+        "duration": "4h 15m",
+        "stops": 0,
+        "price": 9500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": "Red-eye flight — save a night of accommodation",
+        "smartPick": false
+      },
+      {
+        "id": "flt_thai_out_002",
+        "airline": "Thai Airways",
+        "flightNo": "TG-315",
+        "departure": "09:45",
+        "arrival": "16:00",
+        "duration": "4h 15m",
+        "stops": 0,
+        "price": 14200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Comfortable timing with in-flight meal",
+        "smartPick": true
+      },
+      {
+        "id": "flt_thai_out_003",
+        "airline": "Singapore Airlines",
+        "flightNo": "SQ-421",
+        "departure": "07:00",
+        "arrival": "16:30",
+        "duration": "7h 30m",
+        "stops": 1,
+        "stopAt": "Singapore (SIN)",
+        "price": 32000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": "World-class business class via Singapore",
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_thai_ret_001",
+        "airline": "IndiGo",
+        "flightNo": "6E-1782",
+        "departure": "22:00",
+        "arrival": "00:15+1",
+        "duration": "4h 15m",
+        "stops": 0,
+        "price": 9200,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_thai_ret_002",
+        "airline": "Thai Airways",
+        "flightNo": "TG-316",
+        "departure": "17:30",
+        "arrival": "19:45",
+        "duration": "4h 15m",
+        "stops": 0,
+        "price": 13800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Evening departure — full last day in Bangkok",
+        "smartPick": true
+      },
+      {
+        "id": "flt_thai_ret_003",
+        "airline": "Singapore Airlines",
+        "flightNo": "SQ-422",
+        "departure": "11:00",
+        "arrival": "17:30",
+        "duration": "6h 30m",
+        "stops": 1,
+        "stopAt": "Singapore (SIN)",
+        "price": 30000,
+        "class": "Business",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+  "VARANASI_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Varanasi (VNS)",
+    "outbound": [
+      {
+        "id": "flt_vnsi_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2211",
+        "departure": "05:45",
+        "arrival": "07:55",
+        "duration": "2h 10m",
+        "stops": 0,
+        "price": 5800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early morning arrival — reach ghats before sunrise boat ride",
+        "smartPick": true
+      },
+      {
+        "id": "flt_vnsi_o2",
+        "airline": "Air India",
+        "flightNo": "AI-415",
+        "departure": "08:20",
+        "arrival": "10:35",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 6400,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_vnsi_o3",
+        "airline": "Vistara",
+        "flightNo": "UK-941",
+        "departure": "11:00",
+        "arrival": "13:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 7100,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_vnsi_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2216",
+        "departure": "21:30",
+        "arrival": "23:40",
+        "duration": "2h 10m",
+        "stops": 0,
+        "price": 5800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Late night — attend Ganga Aarti before your flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_vnsi_r2",
+        "airline": "Air India",
+        "flightNo": "AI-418",
+        "departure": "18:00",
+        "arrival": "20:15",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 6200,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_vnsi_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-2401",
+        "departure": "15:30",
+        "arrival": "17:50",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 5200,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "TIRUPATI_VERYSHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Tirupati (TIR)",
+    "outbound": [
+      {
+        "id": "flt_tir_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-7051",
+        "departure": "05:30",
+        "arrival": "07:10",
+        "duration": "1h 40m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Earliest possible — arrive before rush for Darshan token",
+        "smartPick": true
+      },
+      {
+        "id": "flt_tir_o2",
+        "airline": "Air India",
+        "flightNo": "AI-559",
+        "departure": "07:00",
+        "arrival": "08:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5400,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_tir_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-3051",
+        "departure": "09:30",
+        "arrival": "11:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4300,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_tir_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-7056",
+        "departure": "21:00",
+        "arrival": "22:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Evening return — full day for darshan and temple circuit",
+        "smartPick": true
+      },
+      {
+        "id": "flt_tir_r2",
+        "airline": "Air India",
+        "flightNo": "AI-562",
+        "departure": "16:30",
+        "arrival": "18:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5100,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_tir_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-3054",
+        "departure": "19:45",
+        "arrival": "21:30",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4400,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "MATHURA_VERYSHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Agra / Mathura (AGR)",
+    "outbound": [
+      {
+        "id": "flt_mtr_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2011",
+        "departure": "06:15",
+        "arrival": "08:00",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Morning departure — reach Mathura for the 9am Janmabhoomi Darshan opening",
+        "smartPick": true
+      },
+      {
+        "id": "flt_mtr_o2",
+        "airline": "Vistara",
+        "flightNo": "UK-991",
+        "departure": "08:00",
+        "arrival": "09:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 6100,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_mtr_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-451",
+        "departure": "11:20",
+        "arrival": "13:10",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4700,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_mtr_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2016",
+        "departure": "20:30",
+        "arrival": "22:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Evening return after attending Vrindavan evening aarti",
+        "smartPick": true
+      },
+      {
+        "id": "flt_mtr_r2",
+        "airline": "Vistara",
+        "flightNo": "UK-994",
+        "departure": "17:00",
+        "arrival": "18:55",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 5900,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_mtr_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-456",
+        "departure": "14:00",
+        "arrival": "15:55",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 4500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "AGRA_VERYSHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Agra (AGR)",
+    "outbound": [
+      {
+        "id": "flt_agr_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2031",
+        "departure": "06:00",
+        "arrival": "07:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5100,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Arrive before Taj opens — beat the crowds for sunrise photography",
+        "smartPick": true
+      },
+      {
+        "id": "flt_agr_o2",
+        "airline": "Air India",
+        "flightNo": "AI-441",
+        "departure": "08:30",
+        "arrival": "10:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5900,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_agr_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-401",
+        "departure": "11:00",
+        "arrival": "12:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4600,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_agr_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2036",
+        "departure": "21:15",
+        "arrival": "23:00",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5100,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Night return — includes full day Taj + Agra Fort + Mehtab Bagh sunset",
+        "smartPick": true
+      },
+      {
+        "id": "flt_agr_r2",
+        "airline": "Air India",
+        "flightNo": "AI-444",
+        "departure": "17:30",
+        "arrival": "19:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5700,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_agr_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-406",
+        "departure": "15:00",
+        "arrival": "16:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4400,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "COORG_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Mangalore (IXE) then drive to Coorg",
+    "outbound": [
+      {
+        "id": "flt_coorg_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-5011",
+        "departure": "06:30",
+        "arrival": "08:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early arrival at Mangalore + 2.5hr scenic drive — reach Coorg by noon",
+        "smartPick": true
+      },
+      {
+        "id": "flt_coorg_o2",
+        "airline": "Air India",
+        "flightNo": "AI-619",
+        "departure": "09:15",
+        "arrival": "11:10",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 5200,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_coorg_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-5011",
+        "departure": "13:00",
+        "arrival": "14:55",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 4100,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_coorg_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-5016",
+        "departure": "20:00",
+        "arrival": "21:55",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 4500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Late Mangalore departure — full last day in Coorg + drive to airport",
+        "smartPick": true
+      },
+      {
+        "id": "flt_coorg_r2",
+        "airline": "Air India",
+        "flightNo": "AI-622",
+        "departure": "16:30",
+        "arrival": "18:25",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 5000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_coorg_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-5016",
+        "departure": "18:30",
+        "arrival": "20:25",
+        "duration": "1h 55m",
+        "stops": 0,
+        "price": 3900,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "PONDY_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Chennai (MAA) then bus/cab to Pondicherry",
+    "outbound": [
+      {
+        "id": "flt_pon_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-311",
+        "departure": "06:10",
+        "arrival": "08:25",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Arrive Chennai 8:25am + 3hr drive — reach Pondicherry by noon",
+        "smartPick": true
+      },
+      {
+        "id": "flt_pon_o2",
+        "airline": "Vistara",
+        "flightNo": "UK-831",
+        "departure": "08:45",
+        "arrival": "11:05",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 5600,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_pon_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-311",
+        "departure": "11:30",
+        "arrival": "13:55",
+        "duration": "2h 25m",
+        "stops": 0,
+        "price": 4300,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_pon_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-318",
+        "departure": "21:30",
+        "arrival": "23:50",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Drive Pondicherry–Chennai by 19:00, late departure back to Mumbai",
+        "smartPick": true
+      },
+      {
+        "id": "flt_pon_r2",
+        "airline": "Air India",
+        "flightNo": "AI-568",
+        "departure": "18:00",
+        "arrival": "20:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 5400,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_pon_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-318",
+        "departure": "16:00",
+        "arrival": "18:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "LONAVALA_SHORT": {
+    "origin": "Mumbai (BOM) — Drive Recommended",
+    "destination": "Lonavala / Mahabaleshwar (Road, ~2.5 hrs)",
+    "note": "Lonavala is a drive destination — no flight needed. We recommend a self-drive or cab. We include Pune (PNQ) flight as an option for those coming from distant cities.",
+    "outbound": [
+      {
+        "id": "flt_lon_o1",
+        "airline": "IndiGo (Pune option)",
+        "flightNo": "6E-191",
+        "departure": "07:00",
+        "arrival": "08:05",
+        "duration": "1h 05m",
+        "stops": 0,
+        "price": 3200,
+        "class": "Economy",
+        "tag": "For Non-Mumbai Travellers",
+        "note": "Fly to Pune, then 1.5hr cab to Lonavala",
+        "smartPick": true
+      },
+      {
+        "id": "flt_lon_o2",
+        "airline": "Air India",
+        "flightNo": "AI-851",
+        "departure": "09:30",
+        "arrival": "10:40",
+        "duration": "1h 10m",
+        "stops": 0,
+        "price": 3900,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_lon_o3",
+        "airline": "Vistara",
+        "flightNo": "UK-511",
+        "departure": "12:00",
+        "arrival": "13:10",
+        "duration": "1h 10m",
+        "stops": 0,
+        "price": 4500,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_lon_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-196",
+        "departure": "20:45",
+        "arrival": "21:55",
+        "duration": "1h 10m",
+        "stops": 0,
+        "price": 3200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Cab from Lonavala at 18:30 → Pune airport → night flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_lon_r2",
+        "airline": "Air India",
+        "flightNo": "AI-856",
+        "departure": "17:00",
+        "arrival": "18:10",
+        "duration": "1h 10m",
+        "stops": 0,
+        "price": 3800,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_lon_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-501",
+        "departure": "15:00",
+        "arrival": "16:10",
+        "duration": "1h 10m",
+        "stops": 0,
+        "price": 2900,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "RANTHAMBORE_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Jaipur (JAI) then drive to Ranthambore (~3.5 hrs)",
+    "outbound": [
+      {
+        "id": "flt_ran_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-121",
+        "departure": "06:00",
+        "arrival": "07:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early morning — arrive Jaipur, drive to Sawai Madhopur in time for afternoon safari",
+        "smartPick": true
+      },
+      {
+        "id": "flt_ran_o2",
+        "airline": "Vistara",
+        "flightNo": "UK-661",
+        "departure": "08:30",
+        "arrival": "10:15",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5600,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ran_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-681",
+        "departure": "12:00",
+        "arrival": "13:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_ran_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-126",
+        "departure": "21:00",
+        "arrival": "22:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Drive Ranthambore–Jaipur after morning safari, catch evening flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_ran_r2",
+        "airline": "Air India",
+        "flightNo": "AI-801",
+        "departure": "17:30",
+        "arrival": "19:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5400,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ran_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-686",
+        "departure": "19:00",
+        "arrival": "20:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "AMRITSAR_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Amritsar (ATQ)",
+    "outbound": [
+      {
+        "id": "flt_asr_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2101",
+        "departure": "05:55",
+        "arrival": "08:25",
+        "duration": "2h 30m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early morning — reach Golden Temple for Amrit Vela 4am blessing next day, or explore by 9am today",
+        "smartPick": true
+      },
+      {
+        "id": "flt_asr_o2",
+        "airline": "Air India",
+        "flightNo": "AI-151",
+        "departure": "08:15",
+        "arrival": "10:50",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 6300,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_asr_o3",
+        "airline": "Vistara",
+        "flightNo": "UK-711",
+        "departure": "11:30",
+        "arrival": "14:10",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 7000,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_asr_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2106",
+        "departure": "21:15",
+        "arrival": "23:50",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Attend Wagah Border ceremony at 17:30, evening Golden Temple, then fly home",
+        "smartPick": true
+      },
+      {
+        "id": "flt_asr_r2",
+        "airline": "Air India",
+        "flightNo": "AI-156",
+        "departure": "18:00",
+        "arrival": "20:40",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 6100,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_asr_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-2301",
+        "departure": "15:30",
+        "arrival": "18:10",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 5000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "HAMPI_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Hubli (HBX) then drive to Hampi (~3hrs)",
+    "outbound": [
+      {
+        "id": "flt_hmp_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-7601",
+        "departure": "06:45",
+        "arrival": "08:25",
+        "duration": "1h 40m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Arrive Hubli early — drive 3hrs, reach Hampi before noon for Virupaksha visit",
+        "smartPick": true
+      },
+      {
+        "id": "flt_hmp_o2",
+        "airline": "Air India",
+        "flightNo": "AI-601",
+        "departure": "09:30",
+        "arrival": "11:15",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4900,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_hmp_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-7001",
+        "departure": "12:30",
+        "arrival": "14:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 3800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_hmp_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-7606",
+        "departure": "20:30",
+        "arrival": "22:10",
+        "duration": "1h 40m",
+        "stops": 0,
+        "price": 4200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Sunrise on Matanga Hill then drive Hampi–Hubli, catch evening flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_hmp_r2",
+        "airline": "Air India",
+        "flightNo": "AI-606",
+        "departure": "16:00",
+        "arrival": "17:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_hmp_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-7006",
+        "departure": "18:15",
+        "arrival": "20:00",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 3700,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "OOTY_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Coimbatore (CJB) then drive to Ooty (~2.5hrs)",
+    "outbound": [
+      {
+        "id": "flt_ooty_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-421",
+        "departure": "06:30",
+        "arrival": "09:00",
+        "duration": "2h 30m",
+        "stops": 0,
+        "price": 4600,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early Coimbatore arrival + scenic drive to Ooty via Nilgiri ghat road",
+        "smartPick": true
+      },
+      {
+        "id": "flt_ooty_o2",
+        "airline": "Air India",
+        "flightNo": "AI-541",
+        "departure": "09:00",
+        "arrival": "11:35",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 5300,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ooty_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-341",
+        "departure": "12:00",
+        "arrival": "14:30",
+        "duration": "2h 30m",
+        "stops": 0,
+        "price": 4100,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_ooty_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-428",
+        "departure": "20:15",
+        "arrival": "22:50",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 4600,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Drive Ooty–Coimbatore by 17:00, catch late flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_ooty_r2",
+        "airline": "Air India",
+        "flightNo": "AI-546",
+        "departure": "17:00",
+        "arrival": "19:40",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 5100,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ooty_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-348",
+        "departure": "15:00",
+        "arrival": "17:30",
+        "duration": "2h 30m",
+        "stops": 0,
+        "price": 3900,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "PURI_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Bhubaneswar (BBI) then drive to Puri (~1.5hrs)",
+    "outbound": [
+      {
+        "id": "flt_puri_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-511",
+        "departure": "06:20",
+        "arrival": "08:50",
+        "duration": "2h 30m",
+        "stops": 0,
+        "price": 5300,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Early Bhubaneswar arrival, reach Puri by 11am for Jagannath morning darshan",
+        "smartPick": true
+      },
+      {
+        "id": "flt_puri_o2",
+        "airline": "Air India",
+        "flightNo": "AI-657",
+        "departure": "08:45",
+        "arrival": "11:20",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 6100,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_puri_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-211",
+        "departure": "12:30",
+        "arrival": "15:05",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_puri_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-516",
+        "departure": "21:00",
+        "arrival": "23:35",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 5300,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Drive Puri–Bhubaneswar after Chilika Lake, late evening flight",
+        "smartPick": true
+      },
+      {
+        "id": "flt_puri_r2",
+        "airline": "Air India",
+        "flightNo": "AI-662",
+        "departure": "17:30",
+        "arrival": "20:10",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 5900,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_puri_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-216",
+        "departure": "19:00",
+        "arrival": "21:40",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 4700,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "KASHMIR": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Srinagar (SXR)",
+    "outbound": [
+      {
+        "id": "flt_srg_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2401",
+        "departure": "07:30",
+        "arrival": "10:30",
+        "duration": "3h 00m",
+        "stops": 0,
+        "price": 7200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_srg_o2",
+        "airline": "Air India",
+        "flightNo": "AI-811",
+        "departure": "09:15",
+        "arrival": "12:20",
+        "duration": "3h 05m",
+        "stops": 0,
+        "price": 8100,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_srg_o3",
+        "airline": "Vistara",
+        "flightNo": "UK-631",
+        "departure": "11:45",
+        "arrival": "14:55",
+        "duration": "3h 10m",
+        "stops": 0,
+        "price": 9200,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_srg_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-2406",
+        "departure": "18:00",
+        "arrival": "21:00",
+        "duration": "3h 00m",
+        "stops": 0,
+        "price": 7200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_srg_r2",
+        "airline": "Air India",
+        "flightNo": "AI-816",
+        "departure": "15:30",
+        "arrival": "18:40",
+        "duration": "3h 10m",
+        "stops": 0,
+        "price": 8000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_srg_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-2601",
+        "departure": "12:00",
+        "arrival": "15:10",
+        "duration": "3h 10m",
+        "stops": 0,
+        "price": 6500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "RAJASTHAN": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Jaipur (JAI)",
+    "outbound": [
+      {
+        "id": "flt_jp_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-121",
+        "departure": "07:00",
+        "arrival": "08:45",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_jp_o2",
+        "airline": "Vistara",
+        "flightNo": "UK-661",
+        "departure": "09:30",
+        "arrival": "11:15",
+        "duration": "1h 45m",
+        "stops": 0,
+        "price": 6500,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_jp_o3",
+        "airline": "Air India",
+        "flightNo": "AI-471",
+        "departure": "13:00",
+        "arrival": "14:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_jp_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-126",
+        "departure": "19:30",
+        "arrival": "21:20",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_jp_r2",
+        "airline": "Vistara",
+        "flightNo": "UK-668",
+        "departure": "16:00",
+        "arrival": "17:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 6300,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_jp_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-681",
+        "departure": "14:00",
+        "arrival": "15:50",
+        "duration": "1h 50m",
+        "stops": 0,
+        "price": 4800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "ANDAMAN": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Port Blair (IXZ)",
+    "outbound": [
+      {
+        "id": "flt_and_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-3711",
+        "departure": "08:00",
+        "arrival": "12:30",
+        "duration": "4h 30m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 9800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_and_o2",
+        "airline": "Air India",
+        "flightNo": "AI-971",
+        "departure": "06:30",
+        "arrival": "11:30",
+        "duration": "5h 00m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 10600,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_and_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-3011",
+        "departure": "10:30",
+        "arrival": "15:00",
+        "duration": "4h 30m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 9100,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_and_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-3716",
+        "departure": "15:00",
+        "arrival": "19:30",
+        "duration": "4h 30m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 9800,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_and_r2",
+        "airline": "Air India",
+        "flightNo": "AI-976",
+        "departure": "12:00",
+        "arrival": "17:00",
+        "duration": "5h 00m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 10400,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_and_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-3016",
+        "departure": "09:00",
+        "arrival": "13:30",
+        "duration": "4h 30m",
+        "stops": 1,
+        "stopAt": "Chennai",
+        "price": 9000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "KERALA": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Kochi (COK)",
+    "outbound": [
+      {
+        "id": "flt_ker_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-611",
+        "departure": "07:45",
+        "arrival": "10:20",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 6200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_ker_o2",
+        "airline": "Vistara",
+        "flightNo": "UK-841",
+        "departure": "10:15",
+        "arrival": "12:55",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 7400,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ker_o3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-411",
+        "departure": "13:30",
+        "arrival": "16:10",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 5700,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_ker_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-616",
+        "departure": "18:30",
+        "arrival": "21:05",
+        "duration": "2h 35m",
+        "stops": 0,
+        "price": 6200,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_ker_r2",
+        "airline": "Air India",
+        "flightNo": "AI-671",
+        "departure": "15:00",
+        "arrival": "17:40",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 6900,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_ker_r3",
+        "airline": "SpiceJet",
+        "flightNo": "SG-416",
+        "departure": "12:00",
+        "arrival": "14:40",
+        "duration": "2h 40m",
+        "stops": 0,
+        "price": 5500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "BARCELONA": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Barcelona (BCN)",
+    "outbound": [
+      {
+        "id": "flt_bcn_o1",
+        "airline": "Emirates",
+        "flightNo": "EK-507 + EK-143",
+        "departure": "10:45",
+        "arrival": "19:30+1",
+        "duration": "14h 45m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 62000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_bcn_o2",
+        "airline": "Etihad Airways",
+        "flightNo": "EY-204 + EY-073",
+        "departure": "04:20",
+        "arrival": "14:30+1",
+        "duration": "15h 10m",
+        "stops": 1,
+        "stopAt": "Abu Dhabi (AUH)",
+        "price": 51000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_bcn_o3",
+        "airline": "Lufthansa",
+        "flightNo": "LH-761 + LH-3372",
+        "departure": "01:50",
+        "arrival": "10:35+1",
+        "duration": "13h 45m",
+        "stops": 1,
+        "stopAt": "Frankfurt (FRA)",
+        "price": 71000,
+        "class": "Economy",
+        "tag": "Fastest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_bcn_r1",
+        "airline": "Emirates",
+        "flightNo": "EK-144 + EK-508",
+        "departure": "12:55",
+        "arrival": "20:15+1",
+        "duration": "14h 20m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 62000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_bcn_r2",
+        "airline": "Etihad Airways",
+        "flightNo": "EY-074 + EY-203",
+        "departure": "09:15",
+        "arrival": "02:25+1",
+        "duration": "12h 10m",
+        "stops": 1,
+        "stopAt": "Abu Dhabi (AUH)",
+        "price": 50000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_bcn_r3",
+        "airline": "Qatar Airways",
+        "flightNo": "QR-150 + QR-554",
+        "departure": "15:00",
+        "arrival": "08:30+1",
+        "duration": "13h 30m",
+        "stops": 1,
+        "stopAt": "Doha (DOH)",
+        "price": 67000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "MALDIVES": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Malé (MLE)",
+    "outbound": [
+      {
+        "id": "flt_mal_o1",
+        "airline": "IndiGo",
+        "flightNo": "6E-1401",
+        "departure": "09:30",
+        "arrival": "11:45",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 18500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_mal_o2",
+        "airline": "Air India",
+        "flightNo": "AI-269",
+        "departure": "07:00",
+        "arrival": "09:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 22000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_mal_o3",
+        "airline": "SriLankan Airlines",
+        "flightNo": "UL-225 + UL-117",
+        "departure": "06:00",
+        "arrival": "12:45",
+        "duration": "6h 45m",
+        "stops": 1,
+        "stopAt": "Colombo (CMB)",
+        "price": 16800,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_mal_r1",
+        "airline": "IndiGo",
+        "flightNo": "6E-1406",
+        "departure": "16:30",
+        "arrival": "18:45",
+        "duration": "2h 15m",
+        "stops": 0,
+        "price": 18500,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_mal_r2",
+        "airline": "Air India",
+        "flightNo": "AI-272",
+        "departure": "13:00",
+        "arrival": "15:20",
+        "duration": "2h 20m",
+        "stops": 0,
+        "price": 21500,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_mal_r3",
+        "airline": "SriLankan Airlines",
+        "flightNo": "UL-120 + UL-226",
+        "departure": "10:00",
+        "arrival": "19:30",
+        "duration": "9h 30m",
+        "stops": 1,
+        "stopAt": "Colombo (CMB)",
+        "price": 15900,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "THAILAND": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Bangkok (BKK)",
+    "outbound": [
+      {
+        "id": "flt_bkk_o1",
+        "airline": "Thai Airways",
+        "flightNo": "TG-316",
+        "departure": "01:30",
+        "arrival": "08:15",
+        "duration": "6h 45m",
+        "stops": 0,
+        "price": 26000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_bkk_o2",
+        "airline": "IndiGo",
+        "flightNo": "6E-1801",
+        "departure": "06:00",
+        "arrival": "12:30",
+        "duration": "6h 30m",
+        "stops": 0,
+        "price": 21000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_bkk_o3",
+        "airline": "Singapore Airlines",
+        "flightNo": "SQ-424 + SQ-977",
+        "departure": "10:00",
+        "arrival": "21:00",
+        "duration": "11h 00m",
+        "stops": 1,
+        "stopAt": "Singapore (SIN)",
+        "price": 31000,
+        "class": "Economy Plus",
+        "tag": "Premium",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_bkk_r1",
+        "airline": "Thai Airways",
+        "flightNo": "TG-317",
+        "departure": "23:30",
+        "arrival": "02:15+1",
+        "duration": "6h 45m",
+        "stops": 0,
+        "price": 26000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_bkk_r2",
+        "airline": "IndiGo",
+        "flightNo": "6E-1806",
+        "departure": "18:00",
+        "arrival": "20:30",
+        "duration": "6h 30m",
+        "stops": 0,
+        "price": 21500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_bkk_r3",
+        "airline": "Air Asia",
+        "flightNo": "AK-311",
+        "departure": "13:00",
+        "arrival": "15:40",
+        "duration": "6h 40m",
+        "stops": 0,
+        "price": 19000,
+        "class": "Economy",
+        "tag": "Budget Pick",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "DUBAI": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Dubai (DXB)",
+    "outbound": [
+      {
+        "id": "flt_dxb_o1",
+        "airline": "Emirates",
+        "flightNo": "EK-501",
+        "departure": "09:00",
+        "arrival": "11:20",
+        "duration": "3h 20m",
+        "stops": 0,
+        "price": 28000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_dxb_o2",
+        "airline": "IndiGo",
+        "flightNo": "6E-1401",
+        "departure": "06:30",
+        "arrival": "08:55",
+        "duration": "3h 25m",
+        "stops": 0,
+        "price": 18000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_dxb_o3",
+        "airline": "Air India",
+        "flightNo": "AI-983",
+        "departure": "13:00",
+        "arrival": "15:20",
+        "duration": "3h 20m",
+        "stops": 0,
+        "price": 23000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_dxb_r1",
+        "airline": "Emirates",
+        "flightNo": "EK-502",
+        "departure": "14:00",
+        "arrival": "19:15",
+        "duration": "3h 45m",
+        "stops": 0,
+        "price": 28000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_dxb_r2",
+        "airline": "IndiGo",
+        "flightNo": "6E-1406",
+        "departure": "21:30",
+        "arrival": "02:45+1",
+        "duration": "3h 45m",
+        "stops": 0,
+        "price": 17500,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_dxb_r3",
+        "airline": "Air Arabia",
+        "flightNo": "G9-401",
+        "departure": "18:30",
+        "arrival": "23:45",
+        "duration": "3h 45m",
+        "stops": 0,
+        "price": 15000,
+        "class": "Economy",
+        "tag": "Budget",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "PARIS": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Paris Charles de Gaulle (CDG)",
+    "outbound": [
+      {
+        "id": "flt_cdg_o1",
+        "airline": "Air France",
+        "flightNo": "AF-218",
+        "departure": "02:20",
+        "arrival": "08:50",
+        "duration": "10h 30m",
+        "stops": 0,
+        "price": 85000,
+        "class": "Economy",
+        "tag": "Direct",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_cdg_o2",
+        "airline": "Emirates",
+        "flightNo": "EK-507 + EK-073",
+        "departure": "10:45",
+        "arrival": "19:30+1",
+        "duration": "14h 45m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 65000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_cdg_o3",
+        "airline": "Qatar Airways",
+        "flightNo": "QR-554 + QR-038",
+        "departure": "04:00",
+        "arrival": "13:00+1",
+        "duration": "13h 00m",
+        "stops": 1,
+        "stopAt": "Doha (DOH)",
+        "price": 70000,
+        "class": "Economy",
+        "tag": "Best Stopover",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_cdg_r1",
+        "airline": "Air France",
+        "flightNo": "AF-217",
+        "departure": "10:35",
+        "arrival": "00:05+1",
+        "duration": "8h 30m",
+        "stops": 0,
+        "price": 85000,
+        "class": "Economy",
+        "tag": "Direct",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_cdg_r2",
+        "airline": "Emirates",
+        "flightNo": "EK-074 + EK-508",
+        "departure": "07:00",
+        "arrival": "06:15+1",
+        "duration": "15h 15m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 64000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_cdg_r3",
+        "airline": "Lufthansa",
+        "flightNo": "LH-1010 + LH-760",
+        "departure": "13:00",
+        "arrival": "07:30+1",
+        "duration": "12h 30m",
+        "stops": 1,
+        "stopAt": "Frankfurt (FRA)",
+        "price": 72000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "JAPAN": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Tokyo Narita (NRT)",
+    "outbound": [
+      {
+        "id": "flt_tyo_o1",
+        "airline": "Japan Airlines",
+        "flightNo": "JL-750 + JL-001",
+        "departure": "08:00",
+        "arrival": "07:30+1",
+        "duration": "11h 30m",
+        "stops": 1,
+        "stopAt": "Bangkok (BKK)",
+        "price": 72000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_tyo_o2",
+        "airline": "Singapore Airlines",
+        "flightNo": "SQ-424 + SQ-637",
+        "departure": "10:00",
+        "arrival": "06:30+1",
+        "duration": "12h 30m",
+        "stops": 1,
+        "stopAt": "Singapore (SIN)",
+        "price": 80000,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_tyo_o3",
+        "airline": "Air Asia X",
+        "flightNo": "D7-181 + D7-523",
+        "departure": "04:30",
+        "arrival": "20:00+1",
+        "duration": "15h 30m",
+        "stops": 1,
+        "stopAt": "Kuala Lumpur (KUL)",
+        "price": 54000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_tyo_r1",
+        "airline": "Japan Airlines",
+        "flightNo": "JL-002 + JL-751",
+        "departure": "10:30",
+        "arrival": "22:00",
+        "duration": "11h 30m",
+        "stops": 1,
+        "stopAt": "Bangkok (BKK)",
+        "price": 72000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": null,
+        "smartPick": true
+      },
+      {
+        "id": "flt_tyo_r2",
+        "airline": "Singapore Airlines",
+        "flightNo": "SQ-638 + SQ-421",
+        "departure": "09:00",
+        "arrival": "21:30",
+        "duration": "12h 30m",
+        "stops": 1,
+        "stopAt": "Singapore (SIN)",
+        "price": 79000,
+        "class": "Economy Plus",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_tyo_r3",
+        "airline": "Air Asia X",
+        "flightNo": "D7-524 + D7-182",
+        "departure": "16:00",
+        "arrival": "08:00+1",
+        "duration": "16h 00m",
+        "stops": 1,
+        "stopAt": "Kuala Lumpur (KUL)",
+        "price": 52000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  },
+
+  "AMALFI_SHORT": {
+    "origin": "Mumbai (BOM)",
+    "destination": "Naples (NAP)",
+    "outbound": [
+      {
+        "id": "flt_aml_o1",
+        "airline": "Emirates",
+        "flightNo": "EK-507 + EK-201",
+        "departure": "05:30",
+        "arrival": "14:20",
+        "duration": "13h 50m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 62000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Arrive Naples 14:20 — check in Positano by 17:00 for sunset",
+        "smartPick": true
+      },
+      {
+        "id": "flt_aml_o2",
+        "airline": "Etihad Airways",
+        "flightNo": "EY-204 + EY-061",
+        "departure": "04:20",
+        "arrival": "16:30",
+        "duration": "17h 10m",
+        "stops": 1,
+        "stopAt": "Abu Dhabi (AUH)",
+        "price": 51000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_aml_o3",
+        "airline": "Qatar Airways",
+        "flightNo": "QR-554 + QR-138",
+        "departure": "03:00",
+        "arrival": "13:00",
+        "duration": "14h 00m",
+        "stops": 1,
+        "stopAt": "Doha (DOH)",
+        "price": 58000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ],
+    "return": [
+      {
+        "id": "flt_aml_r1",
+        "airline": "Emirates",
+        "flightNo": "EK-202 + EK-508",
+        "departure": "16:30",
+        "arrival": "06:30+1",
+        "duration": "14h 00m",
+        "stops": 1,
+        "stopAt": "Dubai (DXB)",
+        "price": 62000,
+        "class": "Economy",
+        "tag": "Recommended",
+        "note": "Drive Naples airport by 14:30 — leaves full 3rd day in Positano/Capri",
+        "smartPick": true
+      },
+      {
+        "id": "flt_aml_r2",
+        "airline": "Etihad",
+        "flightNo": "EY-060 + EY-203",
+        "departure": "13:00",
+        "arrival": "04:30+1",
+        "duration": "15h 30m",
+        "stops": 1,
+        "stopAt": "Abu Dhabi (AUH)",
+        "price": 50000,
+        "class": "Economy",
+        "tag": "Cheapest",
+        "note": null,
+        "smartPick": false
+      },
+      {
+        "id": "flt_aml_r3",
+        "airline": "Lufthansa",
+        "flightNo": "LH-1853 + LH-760",
+        "departure": "18:30",
+        "arrival": "08:30+1",
+        "duration": "14h 00m",
+        "stops": 1,
+        "stopAt": "Frankfurt (FRA)",
+        "price": 68000,
+        "class": "Economy",
+        "tag": null,
+        "note": null,
+        "smartPick": false
+      }
+    ]
+  }
+  
+}

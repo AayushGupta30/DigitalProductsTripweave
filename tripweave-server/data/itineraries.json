@@ -1,0 +1,438 @@
+[
+  {
+    "id": "itin_001",
+    "tripId": "trip_001",
+    "destination": "Goa",
+    "totalDays": 4,
+    "summary": "A sun-soaked friends' getaway combining Goa's best beaches, water sports, colonial heritage, and legendary beach shack nights.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival & North Goa Beaches",
+        "theme": "Settle in, hit the sand",
+        "activities": [
+          { "time": "09:00", "name": "Land at Goa Airport (GOI)", "type": "logistics", "duration": "45 min", "cost": 0, "notes": "Cab to hotel ~30 min" },
+          { "time": "11:00", "name": "Check-in & Freshen up", "type": "accommodation", "duration": "60 min", "cost": 0, "notes": null },
+          { "time": "12:30", "name": "Lunch at Infantaria Pastry Shop", "type": "food", "duration": "60 min", "cost": 600, "notes": "Legendary Goan-Portuguese café. Try the Bebinca." },
+          { "time": "14:00", "name": "Calangute & Baga Beach", "type": "leisure", "duration": "3 hrs", "cost": 0, "notes": "North Goa's most lively stretch" },
+          { "time": "17:00", "name": "Water Sports at Baga", "type": "adventure", "duration": "90 min", "cost": 1500, "notes": "Banana boat, jet ski, parasailing package" },
+          { "time": "20:00", "name": "Dinner at Tito's Lane Beach Shacks", "type": "food", "duration": "2 hrs", "cost": 1200, "notes": "Fresh grilled fish, prawn balchão, Kingfisher by the sea" }
+        ],
+        "totalDayCost": 3300,
+        "travelTime": "Airport to hotel: 30 min by cab"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Heritage, Forts & Anjuna",
+        "theme": "Goa's Portuguese soul",
+        "activities": [
+          { "time": "08:00", "name": "Breakfast at hotel", "type": "food", "duration": "45 min", "cost": 0, "notes": "Included" },
+          { "time": "09:00", "name": "Old Goa Basilica of Bom Jesus", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "UNESCO World Heritage. St. Francis Xavier's remains are here." },
+          { "time": "11:00", "name": "Se Cathedral & Church of St. Francis", "type": "cultural", "duration": "60 min", "cost": 0, "notes": "Asia's largest church" },
+          { "time": "13:00", "name": "Lunch at Viva Panjim", "type": "food", "duration": "60 min", "cost": 800, "notes": "Authentic Goan home cooking in the Latin Quarter" },
+          { "time": "14:30", "name": "Fontainhas Heritage Walk", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "Goa's charming Portuguese quarter with azulejo tiles" },
+          { "time": "16:30", "name": "Anjuna Flea Market (Wed only) / Anjuna Beach", "type": "shopping", "duration": "2 hrs", "cost": 500, "notes": "Famous hippie market or beach if not Wednesday" },
+          { "time": "20:00", "name": "Sunset Dinner at Curlies, Anjuna", "type": "food", "duration": "2 hrs", "cost": 1000, "notes": "Iconic Goa beach party spot" }
+        ],
+        "totalDayCost": 2300,
+        "travelTime": "North Goa ↔ Old Goa: 40 min by cab"
+      },
+      {
+        "dayNumber": 3,
+        "title": "South Goa & Dudhsagar",
+        "theme": "Waterfalls & pristine beaches",
+        "activities": [
+          { "time": "07:00", "name": "Early start: Dudhsagar Waterfall Jeep Safari", "type": "adventure", "duration": "5 hrs", "cost": 2500, "notes": "India's 5th tallest waterfall. Monsoon season is best. Book in advance." },
+          { "time": "13:00", "name": "Lunch at a spice plantation", "type": "food", "duration": "90 min", "cost": 900, "notes": "Sahakari Spice Farm — lunch on banana leaf included" },
+          { "time": "15:00", "name": "Colva / Benaulim Beach (South Goa)", "type": "leisure", "duration": "2.5 hrs", "cost": 0, "notes": "Far quieter than North Goa beaches — long white sand" },
+          { "time": "19:00", "name": "Fort Aguada Sunset Viewpoint", "type": "sightseeing", "duration": "60 min", "cost": 0, "notes": "Best sunset viewpoint in Goa" },
+          { "time": "21:00", "name": "Dinner & Nightlife — Tito's Club / Club Cubana", "type": "nightlife", "duration": "3 hrs", "cost": 2000, "notes": "Goa's legendary nightlife" }
+        ],
+        "totalDayCost": 5400,
+        "travelTime": "North to South Goa: 1hr 20 min"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Leisure Morning & Departure",
+        "theme": "Last sip of Goa",
+        "activities": [
+          { "time": "08:00", "name": "Breakfast & Beach Walk", "type": "leisure", "duration": "90 min", "cost": 0, "notes": "Final Goan breakfast — egg fried rice from a shack" },
+          { "time": "10:00", "name": "Souvenir shopping at Mapusa Market", "type": "shopping", "duration": "90 min", "cost": 1000, "notes": "Cashews, Feni, spices, handicrafts" },
+          { "time": "12:00", "name": "Check-out & transfer to airport", "type": "logistics", "duration": "45 min", "cost": 600, "notes": null },
+          { "time": "20:45", "name": "Flight back to Mumbai (6E-836)", "type": "logistics", "duration": "80 min", "cost": 0, "notes": "Late evening — maximise last hours in Goa" }
+        ],
+        "totalDayCost": 1600,
+        "travelTime": "Hotel to Airport: 30-40 min"
+      }
+    ],
+    "totalEstimatedCost": { "activities": 12600, "perPerson": true, "excludes": "flights, accommodation" }
+  },
+
+  {
+    "id": "itin_003",
+    "tripId": "trip_003",
+    "destination": "Kashmir Valley",
+    "totalDays": 6,
+    "summary": "A deeply romantic journey through paradise — floating on Dal Lake at dawn, meadows of Gulmarg, the Betaab Valley, and evenings on a carved walnut houseboat.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Srinagar & Dal Lake",
+        "theme": "Shikara at dusk",
+        "activities": [
+          { "time": "10:30", "name": "Arrive Srinagar Airport", "type": "logistics", "duration": "30 min", "cost": 0, "notes": "Cab to houseboat / hotel ~45 min" },
+          { "time": "13:00", "name": "Houseboat Check-in, Dal Lake", "type": "accommodation", "duration": "60 min", "cost": 0, "notes": "Traditional carved walnut houseboat — you live on the water" },
+          { "time": "15:00", "name": "Shikara Ride — Dal Lake", "type": "leisure", "duration": "2 hrs", "cost": 1200, "notes": "Floating vegetable markets, lotus gardens, bird islands" },
+          { "time": "18:00", "name": "Sunset on Houseboat Deck", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "Khawa tea served as mountains turn orange" },
+          { "time": "20:00", "name": "Dinner on Houseboat (Wazwan Meal)", "type": "food", "duration": "90 min", "cost": 0, "notes": "Included — traditional Kashmiri multi-course feast" }
+        ],
+        "totalDayCost": 1200,
+        "travelTime": "Airport to Dal Lake: 45 min"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Gulmarg — Meadows & Gondola",
+        "theme": "Top of the world",
+        "activities": [
+          { "time": "06:30", "name": "Sunrise Shikara Ride", "type": "leisure", "duration": "60 min", "cost": 800, "notes": "Misty morning on Dal — the most beautiful hour in Kashmir" },
+          { "time": "08:30", "name": "Drive to Gulmarg", "type": "logistics", "duration": "90 min", "cost": 700, "notes": "50km from Srinagar through pine forests" },
+          { "time": "10:30", "name": "Gulmarg Gondola — Phase 1 & 2", "type": "adventure", "duration": "3 hrs", "cost": 1600, "notes": "World's 2nd highest gondola. Phase 2 reaches 4200m." },
+          { "time": "14:00", "name": "Lunch at Hotel Highland Park, Gulmarg", "type": "food", "duration": "60 min", "cost": 900, "notes": null },
+          { "time": "15:30", "name": "Pony Ride in Gulmarg Meadows", "type": "leisure", "duration": "60 min", "cost": 600, "notes": "Vast flower-filled meadows ringed by snow peaks" },
+          { "time": "17:00", "name": "Return to Srinagar / Houseboat", "type": "logistics", "duration": "90 min", "cost": 700, "notes": null },
+          { "time": "20:00", "name": "Dinner at Ahdoos Restaurant", "type": "food", "duration": "90 min", "cost": 1000, "notes": "Srinagar's most famous restaurant. Must order Rogan Josh." }
+        ],
+        "totalDayCost": 6300,
+        "travelTime": "Srinagar to Gulmarg: 90 min"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Pahalgam — Valley of Shepherds",
+        "theme": "River, meadows & Betaab Valley",
+        "activities": [
+          { "time": "08:00", "name": "Breakfast & drive to Pahalgam", "type": "logistics", "duration": "2.5 hrs", "cost": 1200, "notes": "95km through Anantnag. Stunning Lidder River road." },
+          { "time": "11:00", "name": "Betaab Valley (named after Sunny Deol film)", "type": "sightseeing", "duration": "90 min", "cost": 200, "notes": "Gorgeous Bollywood-famous valley with ice-cold stream" },
+          { "time": "13:00", "name": "Lunch at Forest View Café, Pahalgam", "type": "food", "duration": "60 min", "cost": 800, "notes": "Fresh trout — fished from Lidder River that morning" },
+          { "time": "15:00", "name": "Aru Valley & Baisaran Meadow (Mini Switzerland)", "type": "sightseeing", "duration": "2 hrs", "cost": 400, "notes": "Lush meadow above treeline with stunning snow peaks" },
+          { "time": "17:30", "name": "Lidder River Walk", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "Walk along the river as it turns golden. Very romantic." },
+          { "time": "19:30", "name": "Return to Srinagar", "type": "logistics", "duration": "2.5 hrs", "cost": 1200, "notes": null }
+        ],
+        "totalDayCost": 3800,
+        "travelTime": "Srinagar to Pahalgam: 2.5 hrs"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Mughal Gardens & Old City",
+        "theme": "Emperors' gardens & Sufi shrines",
+        "activities": [
+          { "time": "08:00", "name": "Nishat Bagh (Garden of Bliss)", "type": "cultural", "duration": "90 min", "cost": 50, "notes": "12-terraced Mughal garden on Dal lakeshore" },
+          { "time": "10:00", "name": "Shalimar Bagh (Garden of Love)", "type": "cultural", "duration": "90 min", "cost": 50, "notes": "Jahangir built this for his beloved Nur Jahan" },
+          { "time": "12:00", "name": "Lunch — Harissa at Peer Dastgir Sahib area", "type": "food", "duration": "60 min", "cost": 400, "notes": "Traditional Kashmiri slow-cooked meat porridge — breakfast food that locals swear by" },
+          { "time": "14:00", "name": "Jama Masjid & Khanqah Shah Hamdan", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "Stunning medieval mosque and Sufi shrine in old city" },
+          { "time": "16:00", "name": "Lal Chowk & Kashmiri Handicraft Shopping", "type": "shopping", "duration": "2 hrs", "cost": 2000, "notes": "Pashmina shawls, carpets, walnut woodwork, papier-mâché" },
+          { "time": "20:00", "name": "Final Houseboat Dinner — Special Wazwan", "type": "food", "duration": "2 hrs", "cost": 0, "notes": "Included — the full 36-course Wazwan experience" }
+        ],
+        "totalDayCost": 2500,
+        "travelTime": "All within Srinagar city"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Sonamarg Day Trip",
+        "theme": "Glacier and alpine meadows",
+        "activities": [
+          { "time": "07:00", "name": "Early drive to Sonamarg", "type": "logistics", "duration": "2 hrs", "cost": 1400, "notes": "80km from Srinagar — dramatic mountain highway" },
+          { "time": "09:30", "name": "Thajiwas Glacier Pony / Walk", "type": "adventure", "duration": "3 hrs", "cost": 1200, "notes": "Year-round glacier walk. Take snowboots if available." },
+          { "time": "13:00", "name": "Lunch at Sonamarg tourist camp dhabas", "type": "food", "duration": "60 min", "cost": 600, "notes": "Basic but hearty Kashmiri dal, rice and naan" },
+          { "time": "15:00", "name": "Sindh River Valley Drive & views", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "The river valley at Sonamarg is breathtakingly beautiful" },
+          { "time": "17:00", "name": "Return to Srinagar", "type": "logistics", "duration": "2 hrs", "cost": 1400, "notes": null },
+          { "time": "20:30", "name": "Farewell dinner — Lhasa Restaurant, Srinagar", "type": "food", "duration": "90 min", "cost": 1200, "notes": "Tibetan cuisine overlooking Dal Lake" }
+        ],
+        "totalDayCost": 5800,
+        "travelTime": "Srinagar to Sonamarg: 2 hrs"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Leisurely Morning & Departure",
+        "theme": "Last shikara ride",
+        "activities": [
+          { "time": "06:00", "name": "Sunrise Shikara — Floating Flower Market", "type": "leisure", "duration": "90 min", "cost": 1000, "notes": "The floating flower and vegetable market at dawn. One of India's most magical sights." },
+          { "time": "08:30", "name": "Kashmiri breakfast on houseboat", "type": "food", "duration": "60 min", "cost": 0, "notes": "Included — noon chai, girda bread, eggs" },
+          { "time": "10:00", "name": "Check out & shopping for Kahwa, saffron", "type": "shopping", "duration": "60 min", "cost": 1500, "notes": "Buy real Kashmiri saffron and Kahwa tea — best gifts from Kashmir" },
+          { "time": "12:00", "name": "Transfer to Srinagar Airport", "type": "logistics", "duration": "45 min", "cost": 600, "notes": null },
+          { "time": "18:00", "name": "Depart Srinagar", "type": "logistics", "duration": null, "cost": 0, "notes": "Flight home" }
+        ],
+        "totalDayCost": 3100,
+        "travelTime": "Houseboat to Airport: 45 min"
+      }
+    ],
+    "totalEstimatedCost": { "activities": 22700, "perPerson": true, "excludes": "flights, accommodation" }
+  },
+
+  {
+    "id": "itin_032",
+    "tripId": "trip_032",
+    "destination": "Barcelona & Costa Brava",
+    "totalDays": 7,
+    "summary": "Gaudí's surreal architecture, the electric Gothic Quarter, a foodie's paradise, and the crystalline Costa Brava coastline — Catalonia's greatest hits in 7 unforgettable days.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival & Gothic Quarter",
+        "theme": "First taste of Catalonia",
+        "activities": [
+          { "time": "19:30", "name": "Arrive Barcelona El Prat (BCN)", "type": "logistics", "duration": "45 min", "cost": 0, "notes": "Aerobus to city centre — 35 min, €5.90" },
+          { "time": "21:30", "name": "Check-in & freshen up", "type": "accommodation", "duration": "30 min", "cost": 0, "notes": null },
+          { "time": "22:00", "name": "Dinner at El Xampanyet, El Born", "type": "food", "duration": "2 hrs", "cost": 3500, "notes": "Barcelona's most beloved tapas bar. House cava is legendary." }
+        ],
+        "totalDayCost": 3500,
+        "travelTime": "Airport to city centre: 35 min by Aerobus"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Gaudí Masterpieces",
+        "theme": "Top Rated — A full day of surreal architecture",
+        "isTopRated": true,
+        "activities": [
+          { "time": "08:30", "name": "Sagrada Família (skip-the-line, towers included)", "type": "cultural", "duration": "2.5 hrs", "cost": 3500, "notes": "Book months ahead. The most visited monument in Spain." },
+          { "time": "12:00", "name": "Brunch at La Boqueria Market", "type": "food", "duration": "90 min", "cost": 2000, "notes": "Freshest jamón, Manchego, seafood and fruit in Europe" },
+          { "time": "14:30", "name": "Park Güell", "type": "cultural", "duration": "2 hrs", "cost": 1800, "notes": "Mosaic terraces, gingerbread gatehouses, city panorama. Book timed entry." },
+          { "time": "17:00", "name": "Casa Batlló or Casa Milà (La Pedrera) exterior walk", "type": "cultural", "duration": "90 min", "cost": 2800, "notes": "One of Gaudí's greatest apartment buildings — the roof is spectacular" },
+          { "time": "20:00", "name": "Dinner in Gràcia neighbourhood", "type": "food", "duration": "2 hrs", "cost": 3200, "notes": "Barcelona's most charming village-within-a-city" }
+        ],
+        "totalDayCost": 13300,
+        "travelTime": "All walkable / Metro L2, L3"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Gothic Quarter & El Born",
+        "theme": "Medieval lanes and modernista bars",
+        "activities": [
+          { "time": "09:00", "name": "Gothic Quarter Morning Walk", "type": "cultural", "duration": "2 hrs", "cost": 1500, "notes": "Guided walking tour through Barcelona's 2000-year-old Roman core" },
+          { "time": "11:30", "name": "Barcelona Cathedral", "type": "cultural", "duration": "60 min", "cost": 0, "notes": "Free entry early morning. The cloister with 13 geese is magical." },
+          { "time": "13:00", "name": "Lunch at Bar del Pla, El Born", "type": "food", "duration": "90 min", "cost": 2800, "notes": "Best pintxos in El Born. Try the foie with Pedro Ximénez." },
+          { "time": "15:00", "name": "Picasso Museum", "type": "cultural", "duration": "90 min", "cost": 1500, "notes": "Traces Picasso's formative Barcelona years in a medieval palace" },
+          { "time": "17:00", "name": "Barceloneta Beach & Seafront", "type": "leisure", "duration": "2 hrs", "cost": 0, "notes": "Swim, walk, watch the city from the sea" },
+          { "time": "20:00", "name": "Barcelona Fountain Show (Montjuïc)", "type": "sightseeing", "duration": "60 min", "cost": 0, "notes": "Magic Fountain — free light and water show Thu–Sun" },
+          { "time": "22:00", "name": "Dinner at Bodega Sepúlveda", "type": "food", "duration": "2 hrs", "cost": 2500, "notes": "Authentic Catalan bodega with house vermut and anchovies" }
+        ],
+        "totalDayCost": 8300,
+        "travelTime": "Walking city / Metro as needed"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Montserrat Day Trip",
+        "theme": "Sacred mountain above the clouds",
+        "activities": [
+          { "time": "09:00", "name": "Train to Montserrat (Aeri or Cremallera)", "type": "logistics", "duration": "90 min", "cost": 2500, "notes": "Round trip train from Plaça Espanya includes rack railway or cable car" },
+          { "time": "11:00", "name": "Montserrat Monastery & Black Madonna", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "900-year-old monastery. The famous La Moreneta is inside." },
+          { "time": "12:30", "name": "Sant Joan Trail hike (panoramic ridge)", "type": "adventure", "duration": "2 hrs", "cost": 0, "notes": "45-min uphill — 360° views over Catalonia and the Med" },
+          { "time": "15:00", "name": "Lunch at the monastery café / picnic", "type": "food", "duration": "60 min", "cost": 1500, "notes": null },
+          { "time": "17:00", "name": "Return to Barcelona", "type": "logistics", "duration": "90 min", "cost": 0, "notes": "Included in train pass" },
+          { "time": "20:30", "name": "Dinner — Cal Pep, El Born (seafood)", "type": "food", "duration": "2 hrs", "cost": 4000, "notes": "Barcelona's best seafood counter. Arrive at opening or wait an hour." }
+        ],
+        "totalDayCost": 8000,
+        "travelTime": "Plaça Espanya to Montserrat: 1hr 15min by train"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Costa Brava — Tossa de Mar",
+        "theme": "Crystalline coves and medieval towers",
+        "activities": [
+          { "time": "09:00", "name": "Drive / Bus to Tossa de Mar", "type": "logistics", "duration": "90 min", "cost": 1800, "notes": "105km north of Barcelona. Bus from Estació del Nord." },
+          { "time": "11:00", "name": "Vila Vella — Medieval Walled Town", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "Only inhabited fortified medieval town on the Costa Brava. Stunning." },
+          { "time": "13:00", "name": "Lunch of grilled fish at Sa Muralla restaurant", "type": "food", "duration": "90 min", "cost": 3500, "notes": "Grilled sea bass and local wine on the terrace of the old walls" },
+          { "time": "15:00", "name": "Playa de Tossa swimming & sunbathing", "type": "leisure", "duration": "2 hrs", "cost": 0, "notes": "The most beautiful beach on the Costa Brava" },
+          { "time": "17:30", "name": "Coastal Walk to Cap de Tossa Lighthouse", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "Walk the cliff path to the lighthouse for golden hour views" },
+          { "time": "20:00", "name": "Return to Barcelona", "type": "logistics", "duration": "90 min", "cost": 1800, "notes": null },
+          { "time": "22:00", "name": "Late tapas near hotel", "type": "food", "duration": "90 min", "cost": 2000, "notes": null }
+        ],
+        "totalDayCost": 9100,
+        "travelTime": "Barcelona to Tossa de Mar: 1.5 hrs"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Camp Nou, Tibidabo & Nightlife",
+        "theme": "Football, panoramic views & Barcelona by night",
+        "activities": [
+          { "time": "10:00", "name": "Camp Nou Tour & FC Barcelona Museum", "type": "cultural", "duration": "2 hrs", "cost": 2800, "notes": "Walk the famous pitch. The museum traces Barça's entire history." },
+          { "time": "13:00", "name": "Lunch at Cervecería Catalana", "type": "food", "duration": "90 min", "cost": 2500, "notes": "Barcelona's best casual tapas. The croquetas are unmissable." },
+          { "time": "15:30", "name": "Tibidabo Amusement Park & Church", "type": "leisure", "duration": "3 hrs", "cost": 2500, "notes": "Vintage amusement park on Barcelona's highest hill. The view of the entire city is stunning." },
+          { "time": "20:00", "name": "Sunset Gin Tonic at a Rooftop Bar (Hotel 1898)", "type": "leisure", "duration": "90 min", "cost": 2000, "notes": "Barcelona specialises in elaborate gin and tonics. This is the city's best rooftop." },
+          { "time": "22:00", "name": "Dinner at Palo Cortao (modern Spanish)", "type": "food", "duration": "2 hrs", "cost": 3500, "notes": null }
+        ],
+        "totalDayCost": 13300,
+        "travelTime": "Camp Nou to Tibidabo: 30 min"
+      },
+      {
+        "dayNumber": 7,
+        "title": "El Raval, Brunch & Departure",
+        "theme": "Last morning in Catalonia",
+        "activities": [
+          { "time": "09:00", "name": "Brunch at Federal Café, El Raval", "type": "food", "duration": "90 min", "cost": 2200, "notes": "Barcelona's brunch institution. Avocado toast was practically invented here." },
+          { "time": "11:00", "name": "MACBA (Contemporary Art Museum) exterior", "type": "cultural", "duration": "60 min", "cost": 0, "notes": "Even if you don't go in — the skateboarders outside are Barcelona's most authentic sight" },
+          { "time": "12:00", "name": "Final shopping — El Raval & Passatge de la Concepció", "type": "shopping", "duration": "90 min", "cost": 3000, "notes": "Local design stores, Catalan olive oil, wine and cured meats" },
+          { "time": "14:00", "name": "Transfer to Barcelona Airport", "type": "logistics", "duration": "45 min", "cost": 2200, "notes": "Taxi or Aerobus" },
+          { "time": "18:00", "name": "Depart Barcelona (BCN)", "type": "logistics", "duration": null, "cost": 0, "notes": null }
+        ],
+        "totalDayCost": 7400,
+        "travelTime": "City centre to BCN Airport: 35-45 min"
+      }
+    ],
+    "totalEstimatedCost": { "activities": 62900, "perPerson": true, "excludes": "flights, accommodation" }
+  },
+
+  {
+    "id": "itin_007",
+    "tripId": "trip_007",
+    "destination": "Varanasi",
+    "totalDays": 3,
+    "summary": "Two nights in the world's oldest living city — a profound journey through the ghats, ancient rituals, Ganga Aarti, and the timeless philosophy of Varanasi.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival & Evening Ganga Aarti",
+        "theme": "The eternal city awakens",
+        "activities": [
+          { "time": "07:55", "name": "Arrive Varanasi Airport (VNS)", "type": "logistics", "duration": "45 min", "cost": 0, "notes": "Smart pick: early morning flight. Cab to ghats — 30 min." },
+          { "time": "09:00", "name": "Check-in at hotel / ghat guesthouse", "type": "accommodation", "duration": "30 min", "cost": 0, "notes": null },
+          { "time": "10:00", "name": "Dashashwamedh Ghat Morning Walk", "type": "cultural", "duration": "2 hrs", "cost": 0, "notes": "The soul of Varanasi. Watch bathing rituals, sadhus, flower sellers." },
+          { "time": "12:30", "name": "Kashi Vishwanath Temple Darshan", "type": "pilgrim", "duration": "90 min", "cost": 0, "notes": "One of the 12 Jyotirlinga shrines. Most sacred Shiva temple in India." },
+          { "time": "14:30", "name": "Lunch at Darbhanga Restaurant", "type": "food", "duration": "60 min", "cost": 600, "notes": "Excellent Banarasi thali with thandai and kachori" },
+          { "time": "16:00", "name": "Boat Ride to Manikarnika Ghat", "type": "cultural", "duration": "90 min", "cost": 800, "notes": "The cremation ghat — a confrontation with impermanence that changes you" },
+          { "time": "19:00", "name": "Dashashwamedh Ghat — Ganga Aarti", "type": "cultural", "duration": "90 min", "cost": 0, "notes": "The most spectacular religious ceremony in India. 7 priests, fire, drums, devotion. Arrive 30 min early." },
+          { "time": "21:00", "name": "Dinner at Baati Chokha", "type": "food", "duration": "90 min", "cost": 700, "notes": "Authentic Banarasi food — baati, chokha, dal and ghee" }
+        ],
+        "totalDayCost": 2100,
+        "travelTime": "Airport to Ghats: 30 min by cab"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Sarnath & Silk Lanes",
+        "theme": "Where Buddha first taught",
+        "activities": [
+          { "time": "05:30", "name": "Pre-dawn Boat Ride on the Ganges", "type": "spiritual", "duration": "90 min", "cost": 1000, "notes": "Watching Varanasi wake up from the river at dawn is the defining experience of India" },
+          { "time": "08:00", "name": "Breakfast — Kachori Sabzi & Lassi", "type": "food", "duration": "60 min", "cost": 300, "notes": "Eat at any street stall near the ghats. Genuinely incredible." },
+          { "time": "09:30", "name": "Sarnath — Where Buddha delivered first sermon", "type": "cultural", "duration": "3 hrs", "cost": 300, "notes": "Dhamek Stupa, Sarnath Museum, Deer Park. UNESCO site." },
+          { "time": "13:30", "name": "Lunch near Sarnath", "type": "food", "duration": "60 min", "cost": 500, "notes": null },
+          { "time": "15:00", "name": "Silk Weaving Lanes of Varanasi", "type": "cultural", "duration": "2 hrs", "cost": 0, "notes": "Watch master weavers create Banarasi silk saris. The finest fabric in India." },
+          { "time": "17:30", "name": "Ramnagar Fort & Museum", "type": "cultural", "duration": "90 min", "cost": 150, "notes": "Maharaja of Banaras' residence across the river. Museum of vintage cars, arms, costumes." },
+          { "time": "20:00", "name": "Mithail at Blue Lassi Shop + evening walk", "type": "food", "duration": "90 min", "cost": 400, "notes": "100-year-old lassi shop — the Malaiyyo (cold cream dessert) in winter is extraordinary" }
+        ],
+        "totalDayCost": 2650,
+        "travelTime": "Varanasi to Sarnath: 15 min by auto"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Final Morning & Departure",
+        "theme": "One last Ganga morning",
+        "activities": [
+          { "time": "05:30", "name": "Sunrise Boat Ride — Golden Ganges", "type": "spiritual", "duration": "60 min", "cost": 800, "notes": "The Ganges at sunrise glows gold. Non-negotiable." },
+          { "time": "07:30", "name": "Last temple visit & puja offerings", "type": "pilgrim", "duration": "60 min", "cost": 200, "notes": null },
+          { "time": "09:00", "name": "Breakfast & check-out", "type": "accommodation", "duration": "60 min", "cost": 400, "notes": null },
+          { "time": "11:00", "name": "Transfer to Varanasi Airport", "type": "logistics", "duration": "45 min", "cost": 600, "notes": null },
+          { "time": "21:30", "name": "Depart Varanasi (6E-2216)", "type": "logistics", "duration": null, "cost": 0, "notes": "Smart pick: late evening departure. Attend Ganga Aarti one final time before flying home." }
+        ],
+        "totalDayCost": 2000,
+        "travelTime": "Ghats to Airport: 45 min"
+      }
+    ],
+    "totalEstimatedCost": { "activities": 6750, "perPerson": true, "excludes": "flights, accommodation" }
+  },
+
+  {
+    "id": "itin_038",
+    "tripId": "trip_038",
+    "destination": "Maldives",
+    "totalDays": 6,
+    "summary": "The ultimate luxury honeymoon — private overwater villas, swimming with whale sharks, glowing bioluminescent beaches, and dining 6 metres beneath the Indian Ocean.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Paradise",
+        "theme": "Your villa over the water",
+        "activities": [
+          { "time": "11:45", "name": "Arrive Velana International Airport, Malé", "type": "logistics", "duration": "30 min", "cost": 0, "notes": null },
+          { "time": "13:00", "name": "Seaplane to Resort", "type": "logistics", "duration": "30 min", "cost": 0, "notes": "Included by resort. Flying low over the atolls is a magical arrival." },
+          { "time": "15:00", "name": "Overwater Villa Check-in", "type": "accommodation", "duration": "60 min", "cost": 0, "notes": "Your private deck opens directly to the Indian Ocean. The glass floor panel reveals the reef below." },
+          { "time": "16:30", "name": "First snorkel from villa deck", "type": "leisure", "duration": "90 min", "cost": 0, "notes": "Masks and fins provided. The house reef starts at your steps." },
+          { "time": "19:00", "name": "Sunset cocktails on private deck", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "Included — your butler arranges champagne and canapés" },
+          { "time": "20:30", "name": "Dinner at over-water restaurant", "type": "food", "duration": "2 hrs", "cost": 0, "notes": "Included — glass floor panels below your table reveal reef fish swimming" }
+        ],
+        "totalDayCost": 0,
+        "travelTime": "Airport to resort: 30 min seaplane",
+        "note": "All-inclusive — no activity costs"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Whale Shark Snorkelling",
+        "theme": "Swimming with giants",
+        "activities": [
+          { "time": "07:00", "name": "Sunrise yoga on the overwater platform", "type": "wellness", "duration": "60 min", "cost": 0, "notes": "Complimentary with stay" },
+          { "time": "09:00", "name": "Whale Shark Excursion Boat", "type": "adventure", "duration": "4 hrs", "cost": 18000, "notes": "South Ari Atoll is the world's best spot for year-round whale shark encounters. Guaranteed sightings." },
+          { "time": "14:00", "name": "Lunch at beach restaurant", "type": "food", "duration": "90 min", "cost": 0, "notes": "Included" },
+          { "time": "16:00", "name": "Couples Spa Treatment", "type": "wellness", "duration": "2 hrs", "cost": 12000, "notes": "Overwater spa pavilion. Hot stone massage with ocean sounds below." },
+          { "time": "20:00", "name": "Sandbank Dinner (pre-book)", "type": "food", "duration": "2.5 hrs", "cost": 25000, "notes": "Candlelit dinner on a private sandbank surrounded by ocean. The most romantic meal of your life." }
+        ],
+        "totalDayCost": 55000,
+        "travelTime": "All within resort & surrounding atoll"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Bioluminescent Beach Night",
+        "theme": "The sea glows blue",
+        "activities": [
+          { "time": "09:00", "name": "Scuba Diving — Coral Garden & Manta Point", "type": "adventure", "duration": "3 hrs", "cost": 8000, "notes": "Two dives with certified guides. The Maldives has some of the world's richest reefs." },
+          { "time": "13:00", "name": "Lunch — traditional Maldivian fish curry on the beach", "type": "food", "duration": "90 min", "cost": 0, "notes": "Included" },
+          { "time": "15:00", "name": "Glass-bottom kayaking over the reef", "type": "leisure", "duration": "90 min", "cost": 3500, "notes": "See reef sharks, turtles and rays without getting wet" },
+          { "time": "17:30", "name": "Sunset Dolphin Cruise", "type": "leisure", "duration": "90 min", "cost": 5000, "notes": "Spinner dolphins are almost guaranteed at sunset in the Maldives" },
+          { "time": "22:00", "name": "Bioluminescent Beach Walk", "type": "unique", "duration": "60 min", "cost": 0, "notes": "Vaadhoo Island (nearby atoll) is famous for glowing blue phytoplankton. Ask resort for excursion." }
+        ],
+        "totalDayCost": 16500,
+        "travelTime": "All within resort & surrounding atoll"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Underwater Restaurant & Relaxation",
+        "theme": "Dining beneath the sea",
+        "activities": [
+          { "time": "08:00", "name": "Morning beach walk & bird watching", "type": "leisure", "duration": "60 min", "cost": 0, "notes": null },
+          { "time": "10:00", "name": "Maldivian Cooking Class", "type": "cultural", "duration": "2 hrs", "cost": 6000, "notes": "Learn to make mas huni, rihaakuru and coconut curries" },
+          { "time": "13:00", "name": "Picnic on a neighbouring uninhabited island", "type": "leisure", "duration": "3 hrs", "cost": 8000, "notes": "Your own private island for the afternoon. Just you, the sand, and the ocean." },
+          { "time": "17:00", "name": "Return to resort & freshen up", "type": "accommodation", "duration": "60 min", "cost": 0, "notes": null },
+          { "time": "19:00", "name": "Dinner at Ithaa Undersea Restaurant", "type": "food", "duration": "2.5 hrs", "cost": 28000, "notes": "6 metres below the ocean surface — acrylic tunnel restaurant with 180° reef views. Book months ahead." }
+        ],
+        "totalDayCost": 42000,
+        "travelTime": "All within resort & surrounding atoll"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Full Relaxation Day",
+        "theme": "Doing gloriously nothing",
+        "activities": [
+          { "time": "07:00", "name": "Sunrise meditation on the jetty", "type": "wellness", "duration": "60 min", "cost": 0, "notes": null },
+          { "time": "09:00", "name": "Champagne breakfast in the villa", "type": "food", "duration": "90 min", "cost": 0, "notes": "Ordered to the room. Included." },
+          { "time": "11:00", "name": "Pool day & ocean swimming", "type": "leisure", "duration": "3 hrs", "cost": 0, "notes": null },
+          { "time": "15:00", "name": "His & Hers Spa Day", "type": "wellness", "duration": "3 hrs", "cost": 18000, "notes": "Full body wrap, facial, and Maldivian coconut oil treatment" },
+          { "time": "20:00", "name": "Final romantic dinner at beach restaurant", "type": "food", "duration": "2 hrs", "cost": 0, "notes": "Included. Barefoot dining on the beach." }
+        ],
+        "totalDayCost": 18000,
+        "travelTime": "None needed"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Farewell Paradise",
+        "theme": "One last swim in the lagoon",
+        "activities": [
+          { "time": "07:00", "name": "Last sunrise from villa deck", "type": "leisure", "duration": "60 min", "cost": 0, "notes": "Watch the Indian Ocean turn from silver to gold" },
+          { "time": "09:00", "name": "Final snorkel from villa steps", "type": "leisure", "duration": "90 min", "cost": 0, "notes": "The turtle always comes at 9am. Ask your butler." },
+          { "time": "11:00", "name": "Check out & gift shop", "type": "logistics", "duration": "60 min", "cost": 3000, "notes": "Maldivian sea glass jewellery makes the best memory gift" },
+          { "time": "13:00", "name": "Seaplane back to Malé", "type": "logistics", "duration": "30 min", "cost": 0, "notes": "Included" },
+          { "time": "16:30", "name": "Depart Malé (MLE)", "type": "logistics", "duration": null, "cost": 0, "notes": null }
+        ],
+        "totalDayCost": 3000,
+        "travelTime": "Resort to Malé Airport: 30 min seaplane"
+      }
+    ],
+    "totalEstimatedCost": { "activities": 134500, "perPerson": true, "excludes": "flights, accommodation" }
+  }
+]

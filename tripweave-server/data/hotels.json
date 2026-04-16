@@ -1,0 +1,3870 @@
+{
+  "GOA": [
+    {
+      "id": "htl_goa_01",
+      "name": "The Leela Goa",
+      "location": "Cavelossim Beach, South Goa",
+      "type": "Luxury Resort",
+      "rating": 4.9,
+      "reviewCount": 2840,
+      "pricePerNight": 18500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Selected",
+      "amenities": [
+        "Private Beach",
+        "3 Swimming Pools",
+        "Spa",
+        "5 Restaurants",
+        "Water Sports",
+        "Kids Club"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Award-winning resort on a private lagoon. The gold standard of Goa luxury.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_goa_02",
+      "name": "Novotel Goa Resort & Spa",
+      "location": "Candolim Beach, North Goa",
+      "type": "Beach Resort",
+      "rating": 4.5,
+      "reviewCount": 1620,
+      "pricePerNight": 8200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Value",
+      "amenities": [
+        "Beach Access",
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "Bar",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Reliable mid-range choice with direct beach access and great buffet breakfasts.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.5,
+        "family": 4.8,
+        "friends": 4.8,
+        "pilgrim": 4.5,
+        "adventure": 4.7,
+        "luxury": 4.5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_goa_03",
+      "name": "La Maison Fontainhas",
+      "location": "Fontainhas (Latin Quarter), Panaji",
+      "type": "Heritage Guesthouse",
+      "rating": 4.6,
+      "reviewCount": 480,
+      "pricePerNight": 3800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Hidden Gem",
+      "amenities": [
+        "Heritage Rooms",
+        "Rooftop Terrace",
+        "Local Breakfast",
+        "Bicycle Rental"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "highlights": "A Portuguese-era house in Goa's most charming quarter. For travellers who want authenticity over amenities.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 5,
+        "family": 4.6,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "SRINAGAR": [
+    {
+      "id": "htl_srg_01",
+      "name": "The Lalit Grand Palace",
+      "location": "Dal Lake Bund, Srinagar",
+      "type": "Heritage Palace Hotel",
+      "rating": 4.8,
+      "reviewCount": 920,
+      "pricePerNight": 22000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Dal Lake Views",
+        "Palace Architecture",
+        "Spa",
+        "Fine Dining",
+        "Shikara Service",
+        "Heritage Suites"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "A former Maharaja's palace overlooking Dal Lake. Arguably the most romantic stay in India.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.8,
+        "pilgrim": 5,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_srg_02",
+      "name": "Houseboat — Sukoon",
+      "location": "Dal Lake, Srinagar",
+      "type": "Luxury Houseboat",
+      "rating": 4.9,
+      "reviewCount": 640,
+      "pricePerNight": 12500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Must Experience",
+      "amenities": [
+        "Private Deck",
+        "Shikara Pickup",
+        "All Meals Included",
+        "Carved Wood Interiors",
+        "Sunset Views"
+      ],
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "Waking up on the Dal Lake to mist-covered mountains is an experience you will remember forever.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 4.9,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.9,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_srg_03",
+      "name": "Hotel Boulevard",
+      "location": "Dal Lake, Srinagar",
+      "type": "Lakeside Hotel",
+      "rating": 4.3,
+      "reviewCount": 1100,
+      "pricePerNight": 4500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Good Value",
+      "amenities": [
+        "Lake Views",
+        "Restaurant",
+        "Room Service",
+        "Travel Desk",
+        "Free Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Clean, reliable option with lake-view rooms at a fraction of the luxury price.",
+      "categoryRatings": {
+        "romantic": 4.1,
+        "solo": 4.5,
+        "family": 4.2,
+        "friends": 4.5,
+        "pilgrim": 4.4,
+        "adventure": 4.5,
+        "luxury": 4.1
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "JAIPUR": [
+    {
+      "id": "htl_jp_01",
+      "name": "Taj Rambagh Palace",
+      "location": "Bhawani Singh Road, Jaipur",
+      "type": "Heritage Palace Hotel",
+      "rating": 4.9,
+      "reviewCount": 3100,
+      "pricePerNight": 38000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Iconic",
+      "amenities": [
+        "Palace Gardens",
+        "Spa & Hammam",
+        "3 Restaurants",
+        "Polo Grounds",
+        "Luxury Suites",
+        "Butler Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Once the official residence of the Maharaja of Jaipur. The pinnacle of Indian palace hospitality.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 5,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_jp_02",
+      "name": "ITC Rajputana",
+      "location": "Palace Road, Jaipur",
+      "type": "Heritage Luxury Hotel",
+      "rating": 4.7,
+      "reviewCount": 2200,
+      "pricePerNight": 12000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Value Luxury",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Multi-cuisine Restaurant",
+        "Bar",
+        "Gym",
+        "Business Centre"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Rajasthani architecture meets modern comfort. Great central location for city exploration.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 4.8,
+        "friends": 4.7,
+        "pilgrim": 4.9,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_jp_03",
+      "name": "Pearl Palace Heritage",
+      "location": "Hathroi Fort Area, Jaipur",
+      "type": "Boutique Heritage Guesthouse",
+      "rating": 4.6,
+      "reviewCount": 880,
+      "pricePerNight": 3200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Backpacker Favourite",
+      "amenities": [
+        "Rooftop Restaurant",
+        "Heritage Rooms",
+        "Free Breakfast",
+        "Travel Desk",
+        "Bicycle Rental"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Award-winning budget gem. Stunning rooftop restaurant with city views.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 5,
+        "family": 4.6,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "VARANASI": [
+    {
+      "id": "htl_vns_001",
+      "name": "Stops Hostel Varanasi",
+      "location": "Assi Ghat, Varanasi",
+      "type": "Boutique Hostel",
+      "rating": 4.1,
+      "reviewCount": 920,
+      "pricePerNight": 1200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": null,
+      "amenities": [
+        "Ghat Views",
+        "Rooftop Cafe",
+        "Yoga Classes",
+        "Free WiFi"
+      ],
+      "image": "https://images.unsplash.com/photo-1561625116-5f8675632053?w=600",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Walking distance to Assi Ghat, perfect for solo travellers",
+      "categoryRatings": {
+        "romantic": 3.9,
+        "solo": 4.6,
+        "family": 3.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.6,
+        "luxury": 3.9
+      },
+      "tags": [
+        "Solo Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat",
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_vns_002",
+      "name": "BrijRama Palace",
+      "location": "Darbhanga Ghat, Varanasi",
+      "type": "Heritage Hotel",
+      "rating": 4.7,
+      "reviewCount": 1560,
+      "pricePerNight": 9800,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Heritage Pick",
+      "amenities": [
+        "Ganges View",
+        "Heritage Architecture",
+        "Yoga Deck",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "18th century palace directly on the Ganges — witness Aarti from your room",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 4.8,
+        "friends": 4.7,
+        "pilgrim": 5,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_vns_003",
+      "name": "Taj Ganges Varanasi",
+      "location": "Nadesar Palace Grounds, Varanasi",
+      "type": "Luxury Hotel",
+      "rating": 4.8,
+      "reviewCount": 2100,
+      "pricePerNight": 18500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in City",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Butler Service",
+        "Airport Transfer"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Taj luxury in the spiritual capital of India",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 4.9,
+        "friends": 4.8,
+        "pilgrim": 4.8,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    }
+  ],
+  "PORTBLAIR": [
+    {
+      "id": "htl_and_01",
+      "name": "Taj Exotica Resort & Spa, Andamans",
+      "location": "Havelock Island (Swaraj Dweep)",
+      "type": "Island Luxury Resort",
+      "rating": 4.9,
+      "reviewCount": 640,
+      "pricePerNight": 28000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Andamans",
+      "amenities": [
+        "Private Beach",
+        "Infinity Pool",
+        "Spa",
+        "Dive Centre",
+        "Water Sports",
+        "All-day Dining"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "The only true luxury resort in the Andamans. Surrounded by untouched jungle and beach.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_and_02",
+      "name": "Symphony Palms Beach Resort",
+      "location": "Radhanagar Beach Area, Havelock",
+      "type": "Beach Resort",
+      "rating": 4.5,
+      "reviewCount": 480,
+      "pricePerNight": 8800,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Great Value",
+      "amenities": [
+        "Near Radhanagar Beach",
+        "Pool",
+        "Restaurant",
+        "Snorkelling Desk",
+        "Island Tours"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "highlights": "Steps from Asia's best beach. Comfortable rooms with knowledgeable island-tour desk.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.5,
+        "family": 4.8,
+        "friends": 4.8,
+        "pilgrim": 4.5,
+        "adventure": 4.7,
+        "luxury": 4.8
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_and_03",
+      "name": "Barefoot at Havelock",
+      "location": "Beach 5, Havelock Island",
+      "type": "Eco Beach Cottages",
+      "rating": 4.4,
+      "reviewCount": 760,
+      "pricePerNight": 4200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Eco Pick",
+      "amenities": [
+        "Jungle-edge Cottages",
+        "Beach Access",
+        "Open-air Restaurant",
+        "Dive School",
+        "Hammocks"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "highlights": "Rustic eco-cottages right in the jungle 2 min from the beach. A favourite with divers.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.6,
+        "family": 4.6,
+        "friends": 4.9,
+        "pilgrim": 4.5,
+        "adventure": 4.8,
+        "luxury": 4.2
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "KOCHI": [
+    {
+      "id": "htl_ker_01",
+      "name": "CGH Earth Brunton Boatyard",
+      "location": "Fort Kochi",
+      "type": "Heritage Waterfront Hotel",
+      "rating": 4.9,
+      "reviewCount": 920,
+      "pricePerNight": 19000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Kerala",
+      "amenities": [
+        "Backwater Views",
+        "Infinity Pool",
+        "Spa",
+        "Ayurvedic Centre",
+        "Heritage Architecture"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A restored 19th-century boatyard with stunning harbour views. The finest address in Fort Kochi.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 5,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ker_02",
+      "name": "Vivanta Kochi",
+      "location": "Marine Drive, Kochi",
+      "type": "Business Luxury Hotel",
+      "rating": 4.6,
+      "reviewCount": 1640,
+      "pricePerNight": 8500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "City Centre",
+      "amenities": [
+        "Lagoon Views",
+        "Rooftop Pool",
+        "Spa",
+        "3 Restaurants",
+        "Bar"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Modern luxury with great lagoon views. Well located for Fort Kochi and Marine Drive.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.7,
+        "family": 4.6,
+        "friends": 4.6,
+        "pilgrim": 4.6,
+        "adventure": 4.6,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ker_03",
+      "name": "Old Harbour Hotel",
+      "location": "Fort Kochi",
+      "type": "Heritage Boutique Hotel",
+      "rating": 4.5,
+      "reviewCount": 680,
+      "pricePerNight": 5500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Charming Pick",
+      "amenities": [
+        "Heritage Architecture",
+        "Garden Pool",
+        "Restaurant",
+        "Bicycle Rental"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "A restored 300-year-old Dutch trading house. Atmospheric and wonderfully charming.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.8,
+        "family": 4.5,
+        "friends": 4.7,
+        "pilgrim": 4.8,
+        "adventure": 4.7,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "COORG": [
+    {
+      "id": "htl_coorg_01",
+      "name": "Vivanta Coorg",
+      "location": "Madikeri, Coorg",
+      "type": "Forest Luxury Resort",
+      "rating": 4.8,
+      "reviewCount": 760,
+      "pricePerNight": 16000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Forest Views",
+        "Infinity Pool",
+        "Spa",
+        "Multi-cuisine Dining",
+        "Nature Walks"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Perched in dense coffee forests with misty morning views. Best pool in Coorg.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.8,
+        "adventure": 4.9,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_coorg_02",
+      "name": "Honey Valley Estate",
+      "location": "Kakobbe, Coorg",
+      "type": "Coffee Estate Homestay",
+      "rating": 4.7,
+      "reviewCount": 480,
+      "pricePerNight": 4800,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Hidden Gem",
+      "amenities": [
+        "Coffee Estate Tour",
+        "Homemade Meals",
+        "Trekking Access",
+        "Bonfire Evenings",
+        "Bird Watching"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "An organic coffee estate homestay deep in Coorg. Wake up to absolute silence, birdsong and fresh coffee.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.7,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_coorg_03",
+      "name": "Hotel Capitol Village",
+      "location": "Madikeri Town, Coorg",
+      "type": "Town Hotel",
+      "rating": 4.2,
+      "reviewCount": 620,
+      "pricePerNight": 2400,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget",
+      "amenities": [
+        "Central Location",
+        "Restaurant",
+        "Room Service",
+        "Free Parking",
+        "Travel Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Clean, simple, central. Good base for day trips to all Coorg attractions.",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.4,
+        "family": 4.1,
+        "friends": 4.4,
+        "pilgrim": 4.3,
+        "adventure": 4.4,
+        "luxury": 4
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "RISHIKESH": [
+    {
+      "id": "htl_rsh_01",
+      "name": "Ananda in the Himalayas",
+      "location": "Narendra Nagar, Rishikesh",
+      "type": "Luxury Wellness Spa Resort",
+      "rating": 4.9,
+      "reviewCount": 840,
+      "pricePerNight": 35000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World Famous",
+      "amenities": [
+        "Full Ayurvedic Spa",
+        "Yoga & Meditation",
+        "Ganga Views",
+        "Pool",
+        "Fine Dining",
+        "Personalised Wellness"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Consistently ranked among the world's top 10 destination spas. A transformative experience.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_rsh_02",
+      "name": "Aloha on the Ganges",
+      "location": "Muni Ki Reti, Rishikesh",
+      "type": "Riverside Resort",
+      "rating": 4.5,
+      "reviewCount": 920,
+      "pricePerNight": 6500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Value",
+      "amenities": [
+        "Ganga Frontage",
+        "Yoga Hall",
+        "Pool",
+        "Restaurant",
+        "Rafting Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Sit on your private balcony and watch the Ganges flow past. Incredible value for location.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.5,
+        "family": 4.8,
+        "friends": 4.8,
+        "pilgrim": 5,
+        "adventure": 4.7,
+        "luxury": 4.5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_rsh_03",
+      "name": "Zostel Rishikesh",
+      "location": "Laxman Jhula, Rishikesh",
+      "type": "Social Hostel",
+      "rating": 4.4,
+      "reviewCount": 1840,
+      "pricePerNight": 1200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Backpacker HQ",
+      "amenities": [
+        "Dormitory & Private Rooms",
+        "Cafe",
+        "Rooftop Views",
+        "Community Events",
+        "Rafting Bookings"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "The social hub of Rishikesh. Great for solo travellers who want to meet people.",
+      "categoryRatings": {
+        "romantic": 4.2,
+        "solo": 4.9,
+        "family": 4,
+        "friends": 5,
+        "pilgrim": 4.6,
+        "adventure": 4.9,
+        "luxury": 4.2
+      },
+      "tags": [
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "TIRUPATI": [
+    {
+      "id": "htl_tir_01",
+      "name": "Bliss Hotel",
+      "location": "Beside Govt. Bus Stand, Tirupati",
+      "type": "Business Hotel",
+      "rating": 4.4,
+      "reviewCount": 1200,
+      "pricePerNight": 5500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Town",
+      "amenities": [
+        "Restaurant",
+        "Room Service",
+        "Air Conditioning",
+        "Banquet Hall",
+        "Travel Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Best amenities in Tirupati. Comfortable stay for pilgrims seeking a touch of comfort.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.4,
+        "family": 4.5,
+        "friends": 4.4,
+        "pilgrim": 4.4,
+        "adventure": 4.3,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_tir_02",
+      "name": "Marasa Sarovar Premiere",
+      "location": "Airport Road, Tirupati",
+      "type": "Premium Hotel",
+      "rating": 4.3,
+      "reviewCount": 860,
+      "pricePerNight": 4200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Comfortable",
+      "amenities": [
+        "Pool",
+        "Multi-cuisine Restaurant",
+        "Gym",
+        "Room Service",
+        "Airport Pickup"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Clean, reliable, well-located for airport and early morning Tirumala buses.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 4.3,
+        "family": 4.3,
+        "friends": 4.3,
+        "pilgrim": 4.3,
+        "adventure": 4.3,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_tir_03",
+      "name": "TTDC Guest House (Tirumala)",
+      "location": "Tirumala Hill, Tirupati",
+      "type": "Government Guest House",
+      "rating": 4.1,
+      "reviewCount": 3200,
+      "pricePerNight": 1800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Pilgrims' Choice",
+      "amenities": [
+        "On-Hill Location",
+        "Vegetarian Canteen",
+        "24hr Service",
+        "Temple Proximity",
+        "AC Rooms"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "Variable",
+      "checkOutTime": "Variable",
+      "highlights": "Stay on Tirumala Hill itself — no early morning bus rush. Booking via TTD portal required.",
+      "categoryRatings": {
+        "romantic": 3.9,
+        "solo": 4.3,
+        "family": 4,
+        "friends": 4.3,
+        "pilgrim": 4.2,
+        "adventure": 4.3,
+        "luxury": 3.9
+      },
+      "tags": [
+        "Solo Friendly",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    }
+  ],
+  "LEH": [
+    {
+      "id": "htl_leh_01",
+      "name": "The Grand Dragon Ladakh",
+      "location": "Skara, Leh",
+      "type": "Luxury Mountain Hotel",
+      "rating": 4.8,
+      "reviewCount": 1040,
+      "pricePerNight": 16000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Leh",
+      "amenities": [
+        "Himalayan Views",
+        "Heated Rooms",
+        "Spa",
+        "Altitude Acclimatisation Support",
+        "Fine Dining"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "The most refined address in Ladakh with jaw-dropping mountain panoramas from every window.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 4.9,
+        "friends": 4.8,
+        "pilgrim": 4.8,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_leh_02",
+      "name": "Stok Palace Heritage Hotel",
+      "location": "Stok Village, Near Leh",
+      "type": "Royal Heritage Hotel",
+      "rating": 4.7,
+      "reviewCount": 480,
+      "pricePerNight": 8500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Royal Heritage",
+      "amenities": [
+        "Royal Palace Stay",
+        "Organic Garden",
+        "Cultural Tours",
+        "Mountain Views",
+        "Authentic Ladakhi Meals"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "Stay in the actual palace of the Namgyal royal family. A once-in-a-lifetime heritage experience.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 4.8,
+        "friends": 4.7,
+        "pilgrim": 4.9,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_leh_03",
+      "name": "Zostel Leh",
+      "location": "Fort Road, Old Town Leh",
+      "type": "Hostel",
+      "rating": 4.5,
+      "reviewCount": 1480,
+      "pricePerNight": 1500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Adventure Base",
+      "amenities": [
+        "Dorms & Privates",
+        "Common Room",
+        "Rooftop",
+        "Bike Parking",
+        "Route Planning Help"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Heart of the Ladakh adventure community. Best place to find biking & trekking companions.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 5,
+        "family": 4.1,
+        "friends": 5,
+        "pilgrim": 4.7,
+        "adventure": 5,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "PONDICHERRY": [
+    {
+      "id": "htl_pon_01",
+      "name": "Le Dupleix",
+      "location": "French Quarter, Pondicherry",
+      "type": "Heritage Luxury Hotel",
+      "rating": 4.8,
+      "reviewCount": 560,
+      "pricePerNight": 9500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Heritage Architecture",
+        "Courtyard Pool",
+        "Gourmet Restaurant",
+        "Spa",
+        "Butler Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A restored 1900 French mansion in the heart of the Quartier Français. Pondicherry's finest.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.8,
+        "pilgrim": 5,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_pon_02",
+      "name": "Palais de Mahé",
+      "location": "French Quarter, Pondicherry",
+      "type": "Boutique Heritage Hotel",
+      "rating": 4.6,
+      "reviewCount": 420,
+      "pricePerNight": 6200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Charming",
+      "amenities": [
+        "Plunge Pool",
+        "Colonial Architecture",
+        "Rooftop Café",
+        "Bicycle Rental",
+        "Yoga Sessions"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A lovingly restored French house. Perfect blend of colonial charm and modern comfort.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.6,
+        "pilgrim": 4.8,
+        "adventure": 4.6,
+        "luxury": 4.9
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_pon_03",
+      "name": "Surguru Hotel",
+      "location": "Mission Street, Pondicherry",
+      "type": "Budget Hotel",
+      "rating": 4.1,
+      "reviewCount": 890,
+      "pricePerNight": 2200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Good Value",
+      "amenities": [
+        "Central Location",
+        "AC Rooms",
+        "Restaurant",
+        "Travel Help Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Clean, central and great value. Walking distance from the French Quarter and Promenade Beach.",
+      "categoryRatings": {
+        "romantic": 4.1,
+        "solo": 4.3,
+        "family": 4.3,
+        "friends": 4.6,
+        "pilgrim": 4.2,
+        "adventure": 4.5,
+        "luxury": 3.9
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "AGRA": [
+    {
+      "id": "htl_agr_01",
+      "name": "The Oberoi Amarvilas",
+      "location": "Taj East Gate Road, Agra",
+      "type": "Luxury Palace Hotel",
+      "rating": 4.9,
+      "reviewCount": 2840,
+      "pricePerNight": 42000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World's Best Taj Hotel",
+      "amenities": [
+        "Direct Taj Mahal View from Every Room",
+        "Pool",
+        "Spa",
+        "Fine Dining",
+        "Butler"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Every room has an unobstructed view of the Taj Mahal. Watching sunrise from bed is the most surreal experience in India.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 5,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_agr_02",
+      "name": "ITC Mughal Agra",
+      "location": "Fatehabad Road, Agra",
+      "type": "Heritage Resort",
+      "rating": 4.7,
+      "reviewCount": 2100,
+      "pricePerNight": 12000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Heritage Pick",
+      "amenities": [
+        "Mughal Gardens",
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Stunning Mughal-style architecture with 23 acres of gardens. Best pool in Agra.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 4.9,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_agr_03",
+      "name": "Hotel Kamal",
+      "location": "Taj South Gate, Agra",
+      "type": "Budget Hotel",
+      "rating": 4.2,
+      "reviewCount": 1240,
+      "pricePerNight": 2800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget & Close",
+      "amenities": [
+        "Rooftop Taj View",
+        "AC Rooms",
+        "Restaurant",
+        "Early Breakfast Available"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Famous rooftop restaurant with a Taj Mahal view at a fraction of Oberoi prices.",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.4,
+        "family": 4.1,
+        "friends": 4.4,
+        "pilgrim": 4.3,
+        "adventure": 4.4,
+        "luxury": 4
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "MATHURA": [
+    {
+      "id": "htl_mtr_01",
+      "name": "Radha Ashok Hotel",
+      "location": "Mathura City Centre",
+      "type": "Business Hotel",
+      "rating": 4.3,
+      "reviewCount": 680,
+      "pricePerNight": 4200,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Mathura",
+      "amenities": [
+        "Restaurant",
+        "AC Rooms",
+        "Room Service",
+        "24hr Front Desk",
+        "Travel Help"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Best amenities available in Mathura. Clean, reliable and close to the main temples.",
+      "categoryRatings": {
+        "romantic": 4.5,
+        "solo": 4.3,
+        "family": 4.4,
+        "friends": 4.3,
+        "pilgrim": 4.3,
+        "adventure": 4.2,
+        "luxury": 4.5
+      },
+      "tags": [
+        "Spiritual Retreat",
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mtr_02",
+      "name": "Brijwasi Royal",
+      "location": "Near Krishna Janmabhoomi, Mathura",
+      "type": "Pilgrim Hotel",
+      "rating": 4.1,
+      "reviewCount": 920,
+      "pricePerNight": 2500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Pilgrim Friendly",
+      "amenities": [
+        "Pure Veg Restaurant",
+        "Temple Proximity",
+        "Room Service",
+        "Luggage Storage"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "5-minute walk from Krishna Janmabhoomi. Pure vegetarian food and a devout atmosphere.",
+      "categoryRatings": {
+        "romantic": 4.1,
+        "solo": 4.1,
+        "family": 4.1,
+        "friends": 4.1,
+        "pilgrim": 4.1,
+        "adventure": 4.1,
+        "luxury": 4.1
+      },
+      "tags": [
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mtr_03",
+      "name": "ISKCON Guesthouse Vrindavan",
+      "location": "ISKCON Temple Complex, Vrindavan",
+      "type": "Ashram Guesthouse",
+      "rating": 4.4,
+      "reviewCount": 1200,
+      "pricePerNight": 1500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Spiritual Stay",
+      "amenities": [
+        "Temple Access",
+        "Sattvic Meals",
+        "Morning Aarti Participation",
+        "Meditation Hall"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "Flexible",
+      "checkOutTime": "Flexible",
+      "highlights": "Stay within the ISKCON complex. The Mangala Aarti at 4:30am is a life-changing experience.",
+      "categoryRatings": {
+        "romantic": 4.2,
+        "solo": 4.9,
+        "family": 4,
+        "friends": 5,
+        "pilgrim": 4.6,
+        "adventure": 4.9,
+        "luxury": 4.2
+      },
+      "tags": [
+        "Solo Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    }
+  ],
+  "SHILLONG": [
+    {
+      "id": "htl_shl_01",
+      "name": "Ri Kynjai",
+      "location": "Umiam Lake, Shillong",
+      "type": "Luxury Lake Resort",
+      "rating": 4.8,
+      "reviewCount": 380,
+      "pricePerNight": 14000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in NE India",
+      "amenities": [
+        "Lakeside Villas",
+        "Pool",
+        "Spa",
+        "Organic Dining",
+        "Nature Walks",
+        "Bonfire Evenings"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Luxurious lakeside cottages in a forested setting. The most peaceful luxury resort in Northeast India.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.8,
+        "adventure": 4.9,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_shl_02",
+      "name": "Polo Towers",
+      "location": "Police Bazar, Shillong",
+      "type": "City Hotel",
+      "rating": 4.4,
+      "reviewCount": 720,
+      "pricePerNight": 5200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "City Centre",
+      "amenities": [
+        "Central Location",
+        "Restaurant",
+        "Room Service",
+        "Conference Facilities"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Well-located with comfortable rooms. Walking distance from Police Bazar, cafés and markets.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.5,
+        "family": 4.4,
+        "friends": 4.4,
+        "pilgrim": 4.4,
+        "adventure": 4.4,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_shl_03",
+      "name": "La Galleria",
+      "location": "Laitumkhrah, Shillong",
+      "type": "Boutique Guesthouse",
+      "rating": 4.3,
+      "reviewCount": 340,
+      "pricePerNight": 2600,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Charm",
+      "amenities": [
+        "Cosy Rooms",
+        "Café",
+        "Garden",
+        "Local Advice"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "A charming small guesthouse with a café serving excellent cakes and Khasi food.",
+      "categoryRatings": {
+        "romantic": 4.1,
+        "solo": 4.8,
+        "family": 3.9,
+        "friends": 4.9,
+        "pilgrim": 4.5,
+        "adventure": 4.8,
+        "luxury": 4.1
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "AMRITSAR": [
+    {
+      "id": "htl_asr_01",
+      "name": "Taj Swarna",
+      "location": "Queens Road, Amritsar",
+      "type": "Luxury Hotel",
+      "rating": 4.8,
+      "reviewCount": 1140,
+      "pricePerNight": 14000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Fine Dining",
+        "Golden Temple Shuttle",
+        "Cultural Experiences"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Finest hotel in Amritsar. Provides dedicated shuttle to Golden Temple including for 4am Amrit Vela.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 4.9,
+        "friends": 4.8,
+        "pilgrim": 4.8,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_asr_02",
+      "name": "Hyatt Regency Amritsar",
+      "location": "MBM Group Building, Amritsar",
+      "type": "Business Hotel",
+      "rating": 4.6,
+      "reviewCount": 820,
+      "pricePerNight": 7500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Value",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Gym",
+        "Bar"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Modern luxury with an excellent breakfast buffet. 20 mins from Golden Temple.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.7,
+        "family": 4.6,
+        "friends": 4.6,
+        "pilgrim": 4.6,
+        "adventure": 4.6,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat",
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_asr_03",
+      "name": "Hotel CJ Grand",
+      "location": "Near Golden Temple, Amritsar",
+      "type": "Budget Hotel",
+      "rating": 4.2,
+      "reviewCount": 960,
+      "pricePerNight": 2800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Temple Proximity",
+      "amenities": [
+        "Walking Distance to Golden Temple",
+        "AC Rooms",
+        "24hr Front Desk",
+        "Travel Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "10-minute walk from the Golden Temple. Clean rooms, great price and unbeatable location.",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.4,
+        "family": 4.1,
+        "friends": 4.4,
+        "pilgrim": 4.3,
+        "adventure": 4.4,
+        "luxury": 4
+      },
+      "tags": [
+        "Solo Friendly",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    }
+  ],
+  "AGATTI": [
+    {
+      "id": "htl_agt_01",
+      "name": "Bangaram Island Resort",
+      "location": "Bangaram Island, Lakshadweep",
+      "type": "Exclusive Island Resort",
+      "rating": 4.9,
+      "reviewCount": 180,
+      "pricePerNight": 45000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Most Exclusive in India",
+      "amenities": [
+        "All-Inclusive",
+        "Private Beach",
+        "Snorkelling & Diving",
+        "Glass-bottom Boats",
+        "Sea View Cottages"
+      ],
+      "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=500",
+      "checkInTime": "By Speedboat",
+      "checkOutTime": "By Speedboat",
+      "highlights": "Accessible only by boat from Agatti. India's most exclusive island resort — no cars, no crowds, no wi-fi.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Adventure Base",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_agt_02",
+      "name": "Sports Club Resort, Agatti",
+      "location": "Agatti Island",
+      "type": "Island Resort",
+      "rating": 4.4,
+      "reviewCount": 140,
+      "pricePerNight": 18000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Island Life",
+      "amenities": [
+        "Lagoon Access",
+        "Snorkelling Gear",
+        "Diving Courses",
+        "All Meals",
+        "Bonfire Evenings"
+      ],
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Simple cottages steps from a brilliant lagoon. Perfect for serious snorkellers and divers.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.4,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.4,
+        "adventure": 4.6,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Romantic",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_agt_03",
+      "name": "SPORTS Complex Guest House, Kavaratti",
+      "location": "Kavaratti Island",
+      "type": "Government Guest House",
+      "rating": 3.9,
+      "reviewCount": 90,
+      "pricePerNight": 4500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Option",
+      "amenities": [
+        "Basic Rooms",
+        "Meals Available",
+        "Beach Proximity",
+        "Snorkelling Hire"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "Variable",
+      "checkOutTime": "Variable",
+      "highlights": "Requires advance booking via SPORTS authority. Basic but honest — the lagoon is the luxury.",
+      "categoryRatings": {
+        "romantic": 3.7,
+        "solo": 4.1,
+        "family": 3.8,
+        "friends": 4.1,
+        "pilgrim": 4,
+        "adventure": 4.1,
+        "luxury": 3.7
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "BARCELONA": [
+    {
+      "id": "htl_bcn_01",
+      "name": "Hotel Arts Barcelona",
+      "location": "Barceloneta, Barcelona",
+      "type": "Luxury Skyscraper Hotel",
+      "rating": 4.9,
+      "reviewCount": 2840,
+      "pricePerNight": 32000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Most Iconic",
+      "amenities": [
+        "Infinity Pool (sea view)",
+        "Ritz-Carlton Spa",
+        "3 Michelin-starred Dining",
+        "Beach Access",
+        "City Panorama"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Towering above Barceloneta Beach with panoramic city-to-sea views. The most glamorous address in Barcelona.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_bcn_02",
+      "name": "Hotel Rec Barcelona",
+      "location": "El Born, Barcelona",
+      "type": "Design Boutique Hotel",
+      "rating": 4.7,
+      "reviewCount": 1200,
+      "pricePerNight": 14200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Neighbourhood",
+      "amenities": [
+        "Rooftop Pool",
+        "El Born Location",
+        "Design Rooms",
+        "Breakfast Terrace",
+        "City Bike Rental"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Stylish hotel in El Born — Barcelona's coolest neighbourhood. Walking distance to Gothic Quarter and beach.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.7,
+        "adventure": 4.9,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_bcn_03",
+      "name": "Generator Barcelona",
+      "location": "Gràcia, Barcelona",
+      "type": "Design Hostel",
+      "rating": 4.4,
+      "reviewCount": 3200,
+      "pricePerNight": 3800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Social Traveller Pick",
+      "amenities": [
+        "Private & Dorm Rooms",
+        "Rooftop Bar",
+        "Pool Table",
+        "Events Programme",
+        "24hr Cafe"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "highlights": "Barcelona's trendiest hostel. The rooftop bar is a social institution and the rooms are genuinely comfortable.",
+      "categoryRatings": {
+        "romantic": 4.2,
+        "solo": 4.9,
+        "family": 4,
+        "friends": 5,
+        "pilgrim": 4.6,
+        "adventure": 4.9,
+        "luxury": 4.2
+      },
+      "tags": [
+        "Children Friendly",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "PARIS": [
+    {
+      "id": "htl_par_01",
+      "name": "Four Seasons Hotel George V",
+      "location": "8th Arrondissement, Paris",
+      "type": "Palace Hotel",
+      "rating": 4.9,
+      "reviewCount": 3800,
+      "pricePerNight": 95000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Most Legendary",
+      "amenities": [
+        "3 Michelin-starred Restaurant",
+        "Spa",
+        "Indoor Pool",
+        "Butler",
+        "Eiffel Views",
+        "Flower Arrangements"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "The most celebrated hotel in Paris. The flower arrangements alone are worth a visit.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 5,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_par_02",
+      "name": "Hotel La Comtesse Tour Eiffel",
+      "location": "7th Arrondissement, Paris",
+      "type": "Boutique Hotel",
+      "rating": 4.7,
+      "reviewCount": 1640,
+      "pricePerNight": 18500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best for Eiffel Views",
+      "amenities": [
+        "Eiffel Tower Views",
+        "Elegant Rooms",
+        "Breakfast Terrace",
+        "Wine Bar",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Rooms with Eiffel Tower views at under ₹20,000/night. Exceptional value for central Paris.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.7,
+        "luxury": 4.7
+      },
+      "tags": [],
+      "userRatings": []
+    },
+    {
+      "id": "htl_par_03",
+      "name": "Hotel du Commerce",
+      "location": "Latin Quarter, Paris",
+      "type": "Budget Hotel",
+      "rating": 4.2,
+      "reviewCount": 2200,
+      "pricePerNight": 6500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Paris",
+      "amenities": [
+        "Charming Location",
+        "Clean Rooms",
+        "Metro Nearby",
+        "Free Wi-Fi"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "highlights": "In the heart of the Latin Quarter. Paris at budget prices — very hard to find.",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.4,
+        "family": 4.1,
+        "friends": 4.4,
+        "pilgrim": 4.3,
+        "adventure": 4.4,
+        "luxury": 4
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "MALE": [
+    {
+      "id": "htl_mal_01",
+      "name": "One&Only Reethi Rah",
+      "location": "North Malé Atoll, Maldives",
+      "type": "Ultra Luxury Overwater Villas",
+      "rating": 4.9,
+      "reviewCount": 840,
+      "pricePerNight": 120000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World's Best",
+      "amenities": [
+        "Overwater Villa with Private Pool",
+        "Snorkelling Reef",
+        "Spa",
+        "Watersports",
+        "7 Restaurants",
+        "Private Butler"
+      ],
+      "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Consistently ranked in the world's top 5 hotels. Every villa has a private pool over the lagoon.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mal_02",
+      "name": "Sun Island Resort & Spa",
+      "location": "South Ari Atoll, Maldives",
+      "type": "Beach & Overwater Resort",
+      "rating": 4.6,
+      "reviewCount": 1240,
+      "pricePerNight": 45000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Value Maldives",
+      "amenities": [
+        "Beach & Overwater Villas",
+        "Multiple Pools",
+        "Spa",
+        "Dive School",
+        "All-Inclusive Option"
+      ],
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "One of the Maldives' largest resorts with a great house reef and whale shark snorkelling. Best value overwater.",
+      "categoryRatings": {
+        "romantic": 4.8,
+        "solo": 4.6,
+        "family": 4.9,
+        "friends": 4.9,
+        "pilgrim": 4.6,
+        "adventure": 4.8,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mal_03",
+      "name": "Embudu Village",
+      "location": "South Malé Atoll, Maldives",
+      "type": "Budget Island Resort",
+      "rating": 4.3,
+      "reviewCount": 760,
+      "pricePerNight": 18000,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Maldives",
+      "amenities": [
+        "House Reef",
+        "Beach Bungalows",
+        "Restaurant",
+        "Dive Centre",
+        "Snorkelling Gear"
+      ],
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "The original budget Maldives resort — 20 mins from Malé airport by speedboat. Great house reef, no frills.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 4.5,
+        "family": 4.5,
+        "friends": 4.8,
+        "pilgrim": 4.4,
+        "adventure": 4.7,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "BANGKOK": [
+    {
+      "id": "htl_bkk_01",
+      "name": "Mandarin Oriental Bangkok",
+      "location": "Oriental Avenue, Chao Phraya",
+      "type": "Historic Luxury Hotel",
+      "rating": 4.9,
+      "reviewCount": 4200,
+      "pricePerNight": 42000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World Famous",
+      "amenities": [
+        "Chao Phraya Views",
+        "Spa",
+        "Multiple Award-winning Restaurants",
+        "Pool",
+        "Authors' Wing"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Arguably Asia's most famous hotel, open since 1876. Joseph Conrad and Somerset Maugham stayed here.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_bkk_02",
+      "name": "Sindhorn Midtown Hotel Bangkok",
+      "location": "Langsuan, Bangkok",
+      "type": "Lifestyle Hotel",
+      "rating": 4.7,
+      "reviewCount": 1840,
+      "pricePerNight": 12000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best Mid-Range",
+      "amenities": [
+        "Sky Pool",
+        "Fitness Centre",
+        "Multiple Restaurants",
+        "Park Views",
+        "BTS Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "A rooftop pool, great location near Lumphini Park and excellent value. Bangkok's best mid-range.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.7,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_bkk_03",
+      "name": "Lub d Bangkok Silom",
+      "location": "Silom, Bangkok",
+      "type": "Social Hostel",
+      "rating": 4.5,
+      "reviewCount": 2800,
+      "pricePerNight": 3200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Backpacker HQ",
+      "amenities": [
+        "Private & Dorm Rooms",
+        "Rooftop Pool",
+        "Bar",
+        "Social Events",
+        "BTS Nearby"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Bangkok's best hostel with a rooftop pool. Excellent base for Silom nightlife and BTS travel.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 5,
+        "family": 4.1,
+        "friends": 5,
+        "pilgrim": 4.7,
+        "adventure": 5,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Children Friendly",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "DUBAI": [
+    {
+      "id": "htl_dxb_01",
+      "name": "Burj Al Arab Jumeirah",
+      "location": "Jumeirah Beach, Dubai",
+      "type": "Ultra Luxury Hotel",
+      "rating": 4.9,
+      "reviewCount": 3600,
+      "pricePerNight": 120000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World Icon",
+      "amenities": [
+        "Private Beach",
+        "Helicopter Pad",
+        "9 Restaurants",
+        "Rolls-Royce Transfers",
+        "Sky View Suite",
+        "Full Butler"
+      ],
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "The world's only 7-star hotel. Staying here is an event, not just accommodation.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_dxb_02",
+      "name": "Atlantis The Palm",
+      "location": "Palm Jumeirah, Dubai",
+      "type": "Resort Hotel",
+      "rating": 4.7,
+      "reviewCount": 4800,
+      "pricePerNight": 28000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Best for Families",
+      "amenities": [
+        "Aquaventure Waterpark",
+        "Private Beach",
+        "Aquarium",
+        "16 Restaurants",
+        "Spa",
+        "Dolphin Bay"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Children's absolute favourite — the waterpark alone justifies the stay. Best family hotel in the Middle East.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.7,
+        "adventure": 4.9,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_dxb_03",
+      "name": "Rove Downtown Dubai",
+      "location": "Downtown Dubai",
+      "type": "Lifestyle Budget Hotel",
+      "rating": 4.5,
+      "reviewCount": 3100,
+      "pricePerNight": 7500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Smart Budget",
+      "amenities": [
+        "Pool",
+        "Downtown Location",
+        "Walking Distance to Burj Khalifa",
+        "Café",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "5-minute walk from Burj Khalifa and Dubai Mall. The smartest budget choice in Dubai.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 4.7,
+        "family": 4.4,
+        "friends": 4.7,
+        "pilgrim": 4.6,
+        "adventure": 4.7,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Children Friendly",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "SINGAPORE": [
+    {
+      "id": "htl_sin_01",
+      "name": "Marina Bay Sands",
+      "location": "Marina Bay, Singapore",
+      "type": "Iconic Luxury Hotel",
+      "rating": 4.8,
+      "reviewCount": 8200,
+      "pricePerNight": 58000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World Icon",
+      "amenities": [
+        "Infinity SkyPark Pool",
+        "Casino",
+        "5 Restaurants by Celeb Chefs",
+        "Sands SkyPark",
+        "Luxury Mall"
+      ],
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "highlights": "The most photographed hotel in the world. That infinity pool view from 57 floors up is unforgettable.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 4.9,
+        "friends": 4.8,
+        "pilgrim": 4.8,
+        "adventure": 4.7,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_sin_02",
+      "name": "Hotel Indigo Singapore Katong",
+      "location": "Katong, Singapore",
+      "type": "Boutique Hotel",
+      "rating": 4.7,
+      "reviewCount": 1240,
+      "pricePerNight": 16500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Neighbourhood Gem",
+      "amenities": [
+        "Rooftop Pool",
+        "Local Cultural Design",
+        "Restaurant",
+        "Gym",
+        "Near MRT"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Beautifully designed hotel in Singapore's most charming neighbourhood. Near the best hawker stalls.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.7,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_sin_03",
+      "name": "Wink Hostel",
+      "location": "Chinatown, Singapore",
+      "type": "Boutique Hostel",
+      "rating": 4.6,
+      "reviewCount": 2100,
+      "pricePerNight": 4500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Singapore",
+      "amenities": [
+        "Pod Beds",
+        "Common Kitchen",
+        "Central Location",
+        "MRT Nearby",
+        "Rooftop"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "highlights": "Stylish pod hostel in Chinatown. Best budget option in a city where budget is hard to find.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 5,
+        "family": 4.2,
+        "friends": 5,
+        "pilgrim": 4.8,
+        "adventure": 5,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "LONAVALA": [
+    {
+      "id": "htl_lon_01",
+      "name": "Fariyas Resort Lonavala",
+      "location": "Tungarli, Lonavala",
+      "type": "Hill Station Resort",
+      "rating": 4.5,
+      "reviewCount": 1840,
+      "pricePerNight": 9500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Resort",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Multi-cuisine Restaurant",
+        "Valley Views",
+        "Kids Play Area",
+        "Barbeque"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Best resort in Lonavala with valley views and large pool. Great weekend packages.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.4,
+        "family": 4.9,
+        "friends": 4.8,
+        "pilgrim": 4.5,
+        "adventure": 4.6,
+        "luxury": 4.7
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_lon_02",
+      "name": "The Machan",
+      "location": "Della Adventure Area, Lonavala",
+      "type": "Treehouse Resort",
+      "rating": 4.8,
+      "reviewCount": 620,
+      "pricePerNight": 14000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Unique Experience",
+      "amenities": [
+        "Treehouse Rooms",
+        "Forest Setting",
+        "Nature Trails",
+        "No TV",
+        "Open-air Showers"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "highlights": "Elevated treehouses in a pristine forest with no Wi-Fi by design. The most romantic stay near Mumbai.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.8,
+        "adventure": 5,
+        "luxury": 4.8
+      },
+      "tags": [
+        "Romantic"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_lon_03",
+      "name": "Hotel Chandralok",
+      "location": "Old Mumbai-Pune Highway, Lonavala",
+      "type": "Budget Hotel",
+      "rating": 4,
+      "reviewCount": 980,
+      "pricePerNight": 2800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget",
+      "amenities": [
+        "AC Rooms",
+        "Restaurant",
+        "Parking",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Clean, simple and well-priced. Good base for Lonavala day trips without breaking the bank.",
+      "categoryRatings": {
+        "romantic": 3.8,
+        "solo": 4.2,
+        "family": 3.9,
+        "friends": 4.2,
+        "pilgrim": 4.1,
+        "adventure": 4.2,
+        "luxury": 3.8
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "RANTHAMBORE": [
+    {
+      "id": "htl_ran_01",
+      "name": "Aman-i-Khas",
+      "location": "Adjacent to Ranthambore Reserve",
+      "type": "Tented Luxury Camp",
+      "rating": 4.9,
+      "reviewCount": 280,
+      "pricePerNight": 65000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "World Class",
+      "amenities": [
+        "Luxury Tented Suites",
+        "All-Inclusive",
+        "Private Safaris",
+        "Spa",
+        "Heated Pool",
+        "Naturalist Guides"
+      ],
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "One of the world's greatest safari camps. Private game drives, expert naturalists, pure Aman magic.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ran_02",
+      "name": "Sher Bagh Camp",
+      "location": "Ranthambore",
+      "type": "Jungle Camp",
+      "rating": 4.7,
+      "reviewCount": 380,
+      "pricePerNight": 22000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Authentic Camp",
+      "amenities": [
+        "Luxury Tents",
+        "All-Inclusive Meals",
+        "Safari Booking",
+        "Naturalist Walks",
+        "Campfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "highlights": "Inspired by British Raj-era tiger camps. Incredible food, great guides and authentic jungle atmosphere.",
+      "categoryRatings": {
+        "romantic": 4.7,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.7,
+        "luxury": 4.7
+      },
+      "tags": [],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ran_03",
+      "name": "Hotel Tiger Safari",
+      "location": "Near Gate 1, Ranthambore",
+      "type": "Budget Jungle Hotel",
+      "rating": 4.2,
+      "reviewCount": 640,
+      "pricePerNight": 4500,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Safari",
+      "amenities": [
+        "AC Rooms",
+        "Restaurant",
+        "Safari Booking Desk",
+        "Parking",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Clean, reliable, good safari desk. Best budget option near the reserve gates.",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.4,
+        "family": 4.1,
+        "friends": 4.4,
+        "pilgrim": 4.3,
+        "adventure": 4.4,
+        "luxury": 4
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "DARJEELING": [
+    {
+      "id": "htl_drj_01",
+      "name": "Mayfair Hill Resort",
+      "location": "Observatory Hill, Darjeeling",
+      "type": "Heritage Luxury Resort",
+      "rating": 4.7,
+      "reviewCount": 840,
+      "pricePerNight": 12000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Kanchenjunga Views",
+        "Heated Pool",
+        "Spa",
+        "Tea Lounge",
+        "Heritage Architecture"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A heritage resort with jaw-dropping Kanchenjunga views. Wake up to the mountain above the clouds.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.7,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_drj_02",
+      "name": "Elgin Darjeeling",
+      "location": "HD Lama Road, Darjeeling",
+      "type": "Heritage Hotel",
+      "rating": 4.6,
+      "reviewCount": 540,
+      "pricePerNight": 6500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Heritage",
+      "amenities": [
+        "Colonial Architecture",
+        "Restaurant",
+        "Bar",
+        "Garden",
+        "Mountain Views"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A Raj-era colonial hotel with beautifully preserved character. Excellent library and tea service.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.6,
+        "pilgrim": 4.8,
+        "adventure": 4.6,
+        "luxury": 4.9
+      },
+      "tags": [
+        "Romantic"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_drj_03",
+      "name": "Dekeling Hotel",
+      "location": "Near Mall, Darjeeling",
+      "type": "Himalayan Guesthouse",
+      "rating": 4.4,
+      "reviewCount": 420,
+      "pricePerNight": 3200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Favourite",
+      "amenities": [
+        "Mountain Views",
+        "Tibetan-inspired Décor",
+        "Warm Blankets",
+        "Good Breakfast",
+        "Local Tips"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "Beloved by backpackers for decades. Tibetan-style guesthouse with genuine warmth and mountain views.",
+      "categoryRatings": {
+        "romantic": 4.2,
+        "solo": 4.9,
+        "family": 4,
+        "friends": 5,
+        "pilgrim": 4.6,
+        "adventure": 4.9,
+        "luxury": 4.2
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "JOSHIMATH": [
+    {
+      "id": "htl_josh_01",
+      "name": "Auli Clifftop Club",
+      "location": "Auli, near Joshimath",
+      "type": "Mountain Luxury Resort",
+      "rating": 4.6,
+      "reviewCount": 240,
+      "pricePerNight": 14000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Auli",
+      "amenities": [
+        "Nanda Devi Views",
+        "Ski-in/Ski-out",
+        "Restaurant",
+        "Bonfire",
+        "Nature Walks"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "The only resort in Auli with direct ski access and unobstructed Nanda Devi peak views.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.5,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.6,
+        "adventure": 5,
+        "luxury": 4.8
+      },
+      "tags": [
+        "Children Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_josh_02",
+      "name": "Snow Crest Inn",
+      "location": "Joshimath Town",
+      "type": "Mountain Hotel",
+      "rating": 4.3,
+      "reviewCount": 480,
+      "pricePerNight": 4500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Trekker Base",
+      "amenities": [
+        "Mountain Views",
+        "Restaurant",
+        "Room Service",
+        "Trekking Info",
+        "Warm Rooms"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Reliable trekker base in Joshimath. Knowledgeable staff help plan Valley of Flowers permits.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 4.3,
+        "family": 4.3,
+        "friends": 4.3,
+        "pilgrim": 4.3,
+        "adventure": 4.3,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_josh_03",
+      "name": "GMVN Tourist Rest House",
+      "location": "Joshimath",
+      "type": "Government Guesthouse",
+      "rating": 3.9,
+      "reviewCount": 380,
+      "pricePerNight": 2000,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget Trekker",
+      "amenities": [
+        "Basic Rooms",
+        "Canteen",
+        "Parking",
+        "Mountain Views"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "10:00",
+      "highlights": "Run by Garhwal Mandal Vikas Nigam. Reliable government accommodation at the trekking gateway.",
+      "categoryRatings": {
+        "romantic": 3.7,
+        "solo": 4.4,
+        "family": 3.5,
+        "friends": 4.5,
+        "pilgrim": 4.1,
+        "adventure": 4.4,
+        "luxury": 3.7
+      },
+      "tags": [
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "KAZA": [
+    {
+      "id": "htl_kaz_01",
+      "name": "The Himalayan Shelter",
+      "location": "Kaza, Spiti Valley",
+      "type": "Boutique Mountain Stay",
+      "rating": 4.7,
+      "reviewCount": 180,
+      "pricePerNight": 5500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Spiti",
+      "amenities": [
+        "Mountain Views",
+        "Solar Heated Rooms",
+        "Local Cuisine",
+        "Cultural Tours",
+        "Bonfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "The finest stay in Spiti with stunning views of the valley. Warm, well-insulated rooms are rare here.",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.6,
+        "family": 4.8,
+        "friends": 4.7,
+        "pilgrim": 4.7,
+        "adventure": 4.6,
+        "luxury": 4.9
+      },
+      "tags": [],
+      "userRatings": []
+    },
+    {
+      "id": "htl_kaz_02",
+      "name": "Sakya Abode",
+      "location": "Kaza",
+      "type": "Homestay",
+      "rating": 4.6,
+      "reviewCount": 140,
+      "pricePerNight": 2500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Authentic",
+      "amenities": [
+        "Spitian Meals",
+        "Family Hosted",
+        "Monastery Views",
+        "Bonfire",
+        "Local Stories"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "Flexible",
+      "checkOutTime": "Flexible",
+      "highlights": "A genuine Spitian family homestay. The best way to experience local culture and Himalayan hospitality.",
+      "categoryRatings": {
+        "romantic": 4.6,
+        "solo": 4.6,
+        "family": 4.6,
+        "friends": 4.6,
+        "pilgrim": 4.6,
+        "adventure": 4.6,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Children Friendly",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_kaz_03",
+      "name": "Zostel Kaza",
+      "location": "Kaza, Spiti",
+      "type": "Hostel",
+      "rating": 4.5,
+      "reviewCount": 420,
+      "pricePerNight": 1200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Adventure Hostel",
+      "amenities": [
+        "Dorms & Privates",
+        "Common Room",
+        "Bonfire",
+        "Café",
+        "Route Help"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Community hub for Spiti adventurers. Great source for information on passes, treks and permits.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 5,
+        "family": 4.1,
+        "friends": 5,
+        "pilgrim": 4.7,
+        "adventure": 5,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    }
+  ],
+  "HAMPI": [
+    {
+      "id": "htl_hmp_01",
+      "name": "Evolve Back Kampovar, Hampi",
+      "location": "Near Hampi Bunder Village",
+      "type": "Heritage Luxury Resort",
+      "rating": 4.8,
+      "reviewCount": 320,
+      "pricePerNight": 22000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Best in Region",
+      "amenities": [
+        "Infinity Pool",
+        "Ruins Views",
+        "Spa",
+        "Coracle Rides",
+        "Heritage Tours",
+        "Gourmet Dining"
+      ],
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Stunning infinity pool overlooking boulder-scapes and ruins. The most luxurious Hampi experience possible.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 5,
+        "adventure": 4.9,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_hmp_02",
+      "name": "The Hampi Heritage",
+      "location": "Kamalapura, Hampi",
+      "type": "Boutique Hotel",
+      "rating": 4.4,
+      "reviewCount": 280,
+      "pricePerNight": 4200,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Comfortable Base",
+      "amenities": [
+        "AC Rooms",
+        "Restaurant",
+        "Bicycle Rental",
+        "Ruin Viewpoints",
+        "Travel Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "highlights": "Clean, comfortable and close to major temples. Good restaurant serving local Karnataka thalis.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.4,
+        "family": 4.4,
+        "friends": 4.4,
+        "pilgrim": 4.4,
+        "adventure": 4.4,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Romantic",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_hmp_03",
+      "name": "Guesthouses, Virupapur Gadde",
+      "location": "Hippie Island, across Tungabhadra",
+      "type": "Basic Guesthouse",
+      "rating": 4.2,
+      "reviewCount": 640,
+      "pricePerNight": 1200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Backpacker Classic",
+      "amenities": [
+        "Basic Rooms",
+        "River Views",
+        "Hammocks",
+        "Banana Pancakes",
+        "Coracle Crossing"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "Flexible",
+      "checkOutTime": "Flexible",
+      "highlights": "The iconic 'Hippie Island' across the river from Hampi. Basic but magical. The coracle ride every morning never gets old.",
+      "categoryRatings": {
+        "romantic": 4.3,
+        "solo": 4.7,
+        "family": 4.3,
+        "friends": 4.8,
+        "pilgrim": 4.4,
+        "adventure": 4.7,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "OOTY": [
+    {
+      "id": "htl_ooty_01",
+      "name": "Savoy Hotel Ooty",
+      "location": "Sylks Road, Ooty",
+      "type": "Colonial Heritage Hotel",
+      "rating": 4.6,
+      "reviewCount": 840,
+      "pricePerNight": 9500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Historic",
+      "amenities": [
+        "Heritage Cottages",
+        "Fireplace",
+        "Restaurant",
+        "Garden",
+        "Library Bar"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "A 1829 colonial hotel with roaring fireplaces and old-world charm. Feels like stepping into a Graham Greene novel.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.6,
+        "family": 4.8,
+        "friends": 4.6,
+        "pilgrim": 4.8,
+        "adventure": 4.5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ooty_02",
+      "name": "Fortune Sullivan Court",
+      "location": "Mysore Road, Ooty",
+      "type": "Business Hotel",
+      "rating": 4.4,
+      "reviewCount": 1240,
+      "pricePerNight": 5500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Reliable",
+      "amenities": [
+        "Central Location",
+        "Restaurant",
+        "Gym",
+        "Room Service",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Reliable hotel with good amenities. Walking distance from botanical gardens and bus stand.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.5,
+        "family": 4.4,
+        "friends": 4.4,
+        "pilgrim": 4.4,
+        "adventure": 4.4,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Workation Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_ooty_03",
+      "name": "Hotel Welbeck",
+      "location": "Race View Road, Ooty",
+      "type": "Budget Hotel",
+      "rating": 4.1,
+      "reviewCount": 760,
+      "pricePerNight": 2200,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Budget",
+      "amenities": [
+        "AC Rooms",
+        "Restaurant",
+        "Hot Water",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Simple, clean and central. Best budget hotel in Ooty with a functional restaurant.",
+      "categoryRatings": {
+        "romantic": 3.9,
+        "solo": 4.3,
+        "family": 4,
+        "friends": 4.3,
+        "pilgrim": 4.2,
+        "adventure": 4.3,
+        "luxury": 3.9
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    }
+  ],
+  "PURI": [
+    {
+      "id": "htl_puri_01",
+      "name": "Mayfair Beach Resort Puri",
+      "location": "Chakratirtha Road, Puri",
+      "type": "Beach Resort",
+      "rating": 4.6,
+      "reviewCount": 920,
+      "pricePerNight": 7500,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Top Pick",
+      "amenities": [
+        "Beach Access",
+        "Pool",
+        "Spa",
+        "Multi-cuisine Restaurant",
+        "Temple Transfer Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Best beach resort in Puri with a dedicated service for Jagannath Temple visits.",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.5,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.6,
+        "adventure": 4.7,
+        "luxury": 4.8
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_puri_02",
+      "name": "Toshali Sands Resort",
+      "location": "Marine Drive, Puri",
+      "type": "Ethnic Retreat",
+      "rating": 4.4,
+      "reviewCount": 680,
+      "pricePerNight": 4800,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Ethnic Decor",
+      "amenities": [
+        "Tribal-inspired Décor",
+        "Pool",
+        "Odissi Dance Performances",
+        "Restaurant",
+        "Yoga"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Beautifully designed Odishan tribal-inspired resort. The evening Odissi dance performance is magical.",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.4,
+        "family": 4.4,
+        "friends": 4.4,
+        "pilgrim": 4.4,
+        "adventure": 4.4,
+        "luxury": 4.4
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_puri_03",
+      "name": "Hotel Gandhara",
+      "location": "Near Jagannath Temple, Puri",
+      "type": "Pilgrimage Hotel",
+      "rating": 4.1,
+      "reviewCount": 1100,
+      "pricePerNight": 2000,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Pilgrims' Budget",
+      "amenities": [
+        "Temple Proximity",
+        "Pure Veg Meals",
+        "AC Rooms",
+        "Prayer Hall"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "5-minute walk from Jagannath Temple. Pure vegetarian kitchen serves prasadam-style meals.",
+      "categoryRatings": {
+        "romantic": 3.9,
+        "solo": 4.3,
+        "family": 4,
+        "friends": 4.3,
+        "pilgrim": 4.2,
+        "adventure": 4.3,
+        "luxury": 3.9
+      },
+      "tags": [
+        "Solo Friendly",
+        "Spiritual Retreat"
+      ],
+      "userRatings": []
+    }
+  ],
+  "KASHMIR": [
+    {
+      "id": "htl_kash_001",
+      "name": "Houseboat Nelofar",
+      "location": "Dal Lake, Srinagar",
+      "type": "Heritage Houseboat",
+      "rating": 4.2,
+      "reviewCount": 680,
+      "pricePerNight": 2800,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": null,
+      "amenities": [
+        "Dal Lake View",
+        "Shikara Rides",
+        "Local Meals"
+      ],
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?w=600",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Authentic houseboat stay on Dal Lake with shikara access",
+      "categoryRatings": {
+        "romantic": 4.4,
+        "solo": 4.5,
+        "family": 4.2,
+        "friends": 4.4,
+        "pilgrim": 4.5,
+        "adventure": 4.4,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_kash_002",
+      "name": "The Lalit Grand Palace",
+      "location": "Gupkar Road, Srinagar",
+      "type": "Heritage Hotel",
+      "rating": 4.6,
+      "reviewCount": 1240,
+      "pricePerNight": 8500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Top Rated",
+      "amenities": [
+        "Mountain View",
+        "Spa",
+        "Fine Dining",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Former royal palace with stunning Zabarwan mountain views",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.6,
+        "pilgrim": 4.8,
+        "adventure": 4.6,
+        "luxury": 4.9
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_kash_003",
+      "name": "Khyber Himalayan Resort & Spa",
+      "location": "Gulmarg, Kashmir",
+      "type": "Luxury Resort",
+      "rating": 4.9,
+      "reviewCount": 890,
+      "pricePerNight": 22000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Most Luxurious",
+      "amenities": [
+        "Ski Access",
+        "Himalayan Spa",
+        "Butler Service",
+        "Fine Dining",
+        "Heated Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "India's finest ski resort with panoramic Himalayan views",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 4.9,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    }
+  ],
+  "RAJASTHAN": [
+    {
+      "id": "htl_raj_001",
+      "name": "Moustache Jaipur Hostel",
+      "location": "Bani Park, Jaipur",
+      "type": "Boutique Hostel",
+      "rating": 4.3,
+      "reviewCount": 1840,
+      "pricePerNight": 900,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": "Fan Favourite",
+      "amenities": [
+        "Rooftop Pool",
+        "Common Kitchen",
+        "Free Breakfast",
+        "Tours Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?w=600",
+      "checkInTime": "12:00",
+      "checkOutTime": "11:00",
+      "highlights": "Best budget stay in Jaipur with famous rooftop pool",
+      "categoryRatings": {
+        "romantic": 4.1,
+        "solo": 4.8,
+        "family": 3.9,
+        "friends": 4.9,
+        "pilgrim": 4.5,
+        "adventure": 4.8,
+        "luxury": 4.1
+      },
+      "tags": [
+        "Children Friendly",
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_raj_002",
+      "name": "Alsisar Haveli",
+      "location": "Sansar Chandra Road, Jaipur",
+      "type": "Heritage Haveli",
+      "rating": 4.6,
+      "reviewCount": 2240,
+      "pricePerNight": 7500,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Heritage Pick",
+      "amenities": [
+        "Heritage Architecture",
+        "Pool",
+        "Rajasthani Cuisine",
+        "Cultural Shows"
+      ],
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "19th century haveli with authentic Rajasthani architecture and hospitality",
+      "categoryRatings": {
+        "romantic": 4.9,
+        "solo": 4.7,
+        "family": 4.7,
+        "friends": 4.6,
+        "pilgrim": 4.8,
+        "adventure": 4.6,
+        "luxury": 4.9
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_raj_003",
+      "name": "Rambagh Palace",
+      "location": "Bhawani Singh Road, Jaipur",
+      "type": "Palace Hotel",
+      "rating": 4.9,
+      "reviewCount": 3100,
+      "pricePerNight": 35000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Palace Stay",
+      "amenities": [
+        "Palace Grounds",
+        "Polo Field",
+        "Spa",
+        "Fine Dining",
+        "Butler",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1561625116-5f8675632053?w=600",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "Former residence of the Maharaja of Jaipur — the jewel of Jaipur",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 5,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    }
+  ],
+  "MALDIVES": [
+    {
+      "id": "htl_mal_001",
+      "name": "Cinnamon Hakuraa Huraa",
+      "location": "Meemu Atoll, Maldives",
+      "type": "Island Resort",
+      "rating": 4.2,
+      "reviewCount": 780,
+      "pricePerNight": 12000,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": null,
+      "amenities": [
+        "Beach Access",
+        "Snorkelling",
+        "All-Inclusive Option",
+        "Water Sports"
+      ],
+      "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Best value island resort with house reef snorkelling",
+      "categoryRatings": {
+        "romantic": 4.2,
+        "solo": 4.4,
+        "family": 4.4,
+        "friends": 4.7,
+        "pilgrim": 4.3,
+        "adventure": 4.6,
+        "luxury": 4.3
+      },
+      "tags": [
+        "Romantic",
+        "Solo Friendly",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mal_002",
+      "name": "Centara Grand Island Resort",
+      "location": "South Ari Atoll, Maldives",
+      "type": "Water Villa Resort",
+      "rating": 4.6,
+      "reviewCount": 1420,
+      "pricePerNight": 28000,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "Top Rated",
+      "amenities": [
+        "Water Villas",
+        "Diving Centre",
+        "Spa",
+        "Multiple Restaurants",
+        "Lagoon Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Overwater villas with direct lagoon access and whale shark diving",
+      "categoryRatings": {
+        "romantic": 4.8,
+        "solo": 4.6,
+        "family": 4.9,
+        "friends": 4.9,
+        "pilgrim": 4.6,
+        "adventure": 4.8,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa",
+        "Adventure Base"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_mal_003",
+      "name": "One & Only Reethi Rah",
+      "location": "North Malé Atoll, Maldives",
+      "type": "Ultra Luxury Resort",
+      "rating": 5,
+      "reviewCount": 960,
+      "pricePerNight": 85000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Ultra Luxury",
+      "amenities": [
+        "Private Beach Villas",
+        "Personal Butler",
+        "Infinity Pool",
+        "Yacht",
+        "Michelin Dining"
+      ],
+      "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=600",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "One of the world's finest resorts — private island paradise",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.9,
+        "family": 5,
+        "friends": 5,
+        "pilgrim": 5,
+        "adventure": 5,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    }
+  ],
+  "THAILAND": [
+    {
+      "id": "htl_thai_001",
+      "name": "NapPark Hostel Bangkok",
+      "location": "Khao San Road, Bangkok",
+      "type": "Design Hostel",
+      "rating": 4.2,
+      "reviewCount": 2840,
+      "pricePerNight": 1400,
+      "currency": "INR",
+      "tier": "budget",
+      "tag": null,
+      "amenities": [
+        "Social Bar",
+        "Rooftop",
+        "Free Breakfast",
+        "24hr Reception",
+        "Tours Desk"
+      ],
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Heart of Bangkok's backpacker scene — incredible value",
+      "categoryRatings": {
+        "romantic": 4,
+        "solo": 4.7,
+        "family": 3.8,
+        "friends": 4.8,
+        "pilgrim": 4.4,
+        "adventure": 4.7,
+        "luxury": 4
+      },
+      "tags": [
+        "Solo Friendly"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_thai_002",
+      "name": "Avani+ Riverside Bangkok",
+      "location": "Chao Phraya River, Bangkok",
+      "type": "Riverside Hotel",
+      "rating": 4.6,
+      "reviewCount": 3200,
+      "pricePerNight": 8800,
+      "currency": "INR",
+      "tier": "midrange",
+      "tag": "River View",
+      "amenities": [
+        "River View",
+        "Rooftop Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Shuttle Boat"
+      ],
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600",
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "highlights": "Stunning Chao Phraya views with rooftop infinity pool",
+      "categoryRatings": {
+        "romantic": 4.8,
+        "solo": 4.6,
+        "family": 4.6,
+        "friends": 4.7,
+        "pilgrim": 4.6,
+        "adventure": 4.6,
+        "luxury": 4.6
+      },
+      "tags": [
+        "Romantic",
+        "Children Friendly",
+        "Wellness & Spa"
+      ],
+      "userRatings": []
+    },
+    {
+      "id": "htl_thai_003",
+      "name": "Mandarin Oriental Bangkok",
+      "location": "Oriental Avenue, Bangkok",
+      "type": "Legendary Luxury Hotel",
+      "rating": 4.9,
+      "reviewCount": 4100,
+      "pricePerNight": 42000,
+      "currency": "INR",
+      "tier": "luxury",
+      "tag": "Icon",
+      "amenities": [
+        "River Suites",
+        "Legendary Spa",
+        "6 Restaurants",
+        "Butler",
+        "Cooking School"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600",
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "highlights": "One of the world's greatest hotels since 1876 — timeless Bangkok luxury",
+      "categoryRatings": {
+        "romantic": 5,
+        "solo": 4.8,
+        "family": 5,
+        "friends": 4.9,
+        "pilgrim": 4.9,
+        "adventure": 4.8,
+        "luxury": 5
+      },
+      "tags": [
+        "Romantic",
+        "Wellness & Spa",
+        "Ultra Luxury"
+      ],
+      "userRatings": []
+    }
+  ]
+}
